@@ -1,0 +1,6 @@
+home_team,home_team_id,home_team_score,away_team,away_team_id,away_team_score,match_date,attendance,venue,status,Fixtureid
+SC Magdeburg,fe848316-3952-11ef-8185-af5c55c3771d,24,THW Kiel,febf038e-3952-11ef-b7c2-af5c55c3771d,29,2024-09-22T18:00:00,6600.0,GETEC Arena,Beendet,e8ebabd7-4373-11ef-a8fc-1df2d5004898
+SC DHfK Leipzig,feace61d-3952-11ef-ae23-af5c55c3771d,34,VfL Gummersbach,fe911367-3952-11ef-9131-af5c55c3771d,29,2024-09-22T16:30:00,4321.0,QUARTERBACK Immobilien ARENA,Beendet,e8586acd-4373-11ef-8757-37fe901692aa
+TSV Hannover-Burgdorf,fea93a14-3952-11ef-a7e0-af5c55c3771d,38,Füchse Berlin,fe7bdd16-3952-11ef-b585-af5c55c3771d,35,2024-09-22T15:00:00,8709.0,ZAG Arena,Beendet,e7c34962-4373-11ef-a011-2b52f9be753d
+SG Flensburg-Handewitt,fe88f93b-3952-11ef-aa5d-af5c55c3771d,37,FRISCH AUF! Göppingen,fea4237d-3952-11ef-9fcd-af5c55c3771d,32,2024-09-21T20:30:00,6004.0,Campushalle,Beendet,e6e485b4-4373-11ef-9275-a94a7d17ff09
+Rhein-Neckar Löwen,fe80598a-3952-11ef-914c-af5c55c3771d,31,MT Melsungen,feb41b46-3952-11ef-9df6-af5c55c3771d,26,2024-09-21T19:00:00,6560.0,SAP Arena,Beendet,e65e3e9d-4373-11ef-8650-2f970b50aee5

@@ -1,0 +1,30 @@
+home_team,home_team_id,home_score,away_team,away_team_id,away_score,startDateTime,match_set
+TBV Lemgo Lippe,fe99a935-3952-11ef-9dd4-af5c55c3771d,20,MT Melsungen,feb41b46-3952-11ef-9df6-af5c55c3771d,28,2024-09-05T19:00:00,TBV Lemgo Lippe vs MT Melsungen
+TSV Hannover-Burgdorf,fea93a14-3952-11ef-a7e0-af5c55c3771d,28,VfL Gummersbach,fe911367-3952-11ef-9131-af5c55c3771d,32,2024-09-05T19:00:00,TSV Hannover-Burgdorf vs VfL Gummersbach
+Rhein-Neckar Löwen,fe80598a-3952-11ef-914c-af5c55c3771d,32,THW Kiel,febf038e-3952-11ef-b7c2-af5c55c3771d,27,2024-09-05T20:30:00,Rhein-Neckar Löwen vs THW Kiel
+FRISCH AUF! Göppingen,fea4237d-3952-11ef-9fcd-af5c55c3771d,25,Handball Sport Verein Hamburg,0045fbc4-3953-11ef-a217-af5c55c3771d,25,2024-09-06T19:00:00,FRISCH AUF! Göppingen vs Handball Sport Verein Hamburg
+SG Flensburg-Handewitt,fe88f93b-3952-11ef-aa5d-af5c55c3771d,42,HC Erlangen,fe8d1885-3952-11ef-9130-af5c55c3771d,28,2024-09-06T20:00:00,SG Flensburg-Handewitt vs HC Erlangen
+SC Magdeburg,fe848316-3952-11ef-8185-af5c55c3771d,35,HSG Wetzlar,fe73c376-3952-11ef-8a18-af5c55c3771d,28,2024-09-07T18:00:00,SC Magdeburg vs HSG Wetzlar
+ThSV Eisenach,fef51771-3952-11ef-97b4-af5c55c3771d,35,Füchse Berlin,fe7bdd16-3952-11ef-b585-af5c55c3771d,41,2024-09-07T20:00:00,ThSV Eisenach vs Füchse Berlin
+SG BBM Bietigheim,ff49c9b8-3952-11ef-b8c6-af5c55c3771d,25,Rhein-Neckar Löwen,fe80598a-3952-11ef-914c-af5c55c3771d,33,2024-09-14T19:00:00,SG BBM Bietigheim vs Rhein-Neckar Löwen
+HC Erlangen,fe8d1885-3952-11ef-9130-af5c55c3771d,24,ThSV Eisenach,fef51771-3952-11ef-97b4-af5c55c3771d,28,2024-09-13T19:00:00,HC Erlangen vs ThSV Eisenach
+THW Kiel,febf038e-3952-11ef-b7c2-af5c55c3771d,33,FRISCH AUF! Göppingen,fea4237d-3952-11ef-9fcd-af5c55c3771d,24,2024-09-12T19:00:00,THW Kiel vs FRISCH AUF! Göppingen
+MT Melsungen,feb41b46-3952-11ef-9df6-af5c55c3771d,31,1. VfL Potsdam,ffe84692-3952-11ef-954e-af5c55c3771d,23,2024-09-12T19:00:00,MT Melsungen vs 1. VfL Potsdam
+SC DHfK Leipzig,feace61d-3952-11ef-ae23-af5c55c3771d,33,TVB Stuttgart,febb3114-3952-11ef-b6f7-af5c55c3771d,24,2024-09-08T15:00:00,SC DHfK Leipzig vs TVB Stuttgart
+1. VfL Potsdam,ffe84692-3952-11ef-954e-af5c55c3771d,26,SG BBM Bietigheim,ff49c9b8-3952-11ef-b8c6-af5c55c3771d,28,2024-09-08T16:30:00,1. VfL Potsdam vs SG BBM Bietigheim
+Handball Sport Verein Hamburg,0045fbc4-3953-11ef-a217-af5c55c3771d,26,SC Magdeburg,fe848316-3952-11ef-8185-af5c55c3771d,32,2024-09-15T15:00:00,Handball Sport Verein Hamburg vs SC Magdeburg
+HSG Wetzlar,fe73c376-3952-11ef-8a18-af5c55c3771d,25,TSV Hannover-Burgdorf,fea93a14-3952-11ef-a7e0-af5c55c3771d,36,2024-09-15T16:30:00,HSG Wetzlar vs TSV Hannover-Burgdorf
+TVB Stuttgart,febb3114-3952-11ef-b6f7-af5c55c3771d,25,SG Flensburg-Handewitt,fe88f93b-3952-11ef-aa5d-af5c55c3771d,39,2024-09-15T16:30:00,TVB Stuttgart vs SG Flensburg-Handewitt
+VfL Gummersbach,fe911367-3952-11ef-9131-af5c55c3771d,27,TBV Lemgo Lippe,fe99a935-3952-11ef-9dd4-af5c55c3771d,29,2024-09-15T16:30:00,VfL Gummersbach vs TBV Lemgo Lippe
+Füchse Berlin,fe7bdd16-3952-11ef-b585-af5c55c3771d,37,SC DHfK Leipzig,feace61d-3952-11ef-ae23-af5c55c3771d,32,2024-09-15T18:00:00,Füchse Berlin vs SC DHfK Leipzig
+TBV Lemgo Lippe,fe99a935-3952-11ef-9dd4-af5c55c3771d,28,HSG Wetzlar,fe73c376-3952-11ef-8a18-af5c55c3771d,25,2024-09-19T19:00:00,TBV Lemgo Lippe vs HSG Wetzlar
+ThSV Eisenach,fef51771-3952-11ef-97b4-af5c55c3771d,32,SG BBM Bietigheim,ff49c9b8-3952-11ef-b8c6-af5c55c3771d,35,2024-09-19T19:00:00,ThSV Eisenach vs SG BBM Bietigheim
+TBV Lemgo Lippe,fe99a935-3952-11ef-9dd4-af5c55c3771d,28,HSG Wetzlar,fe73c376-3952-11ef-8a18-af5c55c3771d,25,2024-09-19T19:00:00,TBV Lemgo Lippe vs HSG Wetzlar
+ThSV Eisenach,fef51771-3952-11ef-97b4-af5c55c3771d,32,SG BBM Bietigheim,ff49c9b8-3952-11ef-b8c6-af5c55c3771d,35,2024-09-19T19:00:00,ThSV Eisenach vs SG BBM Bietigheim
+1. VfL Potsdam,ffe84692-3952-11ef-954e-af5c55c3771d,30,Handball Sport Verein Hamburg,0045fbc4-3953-11ef-a217-af5c55c3771d,31,2024-09-20T20:00:00,1. VfL Potsdam vs Handball Sport Verein Hamburg
+HC Erlangen,fe8d1885-3952-11ef-9130-af5c55c3771d,25,TVB Stuttgart,febb3114-3952-11ef-b6f7-af5c55c3771d,26,2024-09-20T19:00:00,HC Erlangen vs TVB Stuttgart
+Rhein-Neckar Löwen,fe80598a-3952-11ef-914c-af5c55c3771d,31,MT Melsungen,feb41b46-3952-11ef-9df6-af5c55c3771d,26,2024-09-21T19:00:00,Rhein-Neckar Löwen vs MT Melsungen
+SG Flensburg-Handewitt,fe88f93b-3952-11ef-aa5d-af5c55c3771d,37,FRISCH AUF! Göppingen,fea4237d-3952-11ef-9fcd-af5c55c3771d,32,2024-09-21T20:30:00,SG Flensburg-Handewitt vs FRISCH AUF! Göppingen
+TSV Hannover-Burgdorf,fea93a14-3952-11ef-a7e0-af5c55c3771d,38,Füchse Berlin,fe7bdd16-3952-11ef-b585-af5c55c3771d,35,2024-09-22T15:00:00,TSV Hannover-Burgdorf vs Füchse Berlin
+SC DHfK Leipzig,feace61d-3952-11ef-ae23-af5c55c3771d,34,VfL Gummersbach,fe911367-3952-11ef-9131-af5c55c3771d,29,2024-09-22T16:30:00,SC DHfK Leipzig vs VfL Gummersbach
+SC Magdeburg,fe848316-3952-11ef-8185-af5c55c3771d,24,THW Kiel,febf038e-3952-11ef-b7c2-af5c55c3771d,29,2024-09-22T18:00:00,SC Magdeburg vs THW Kiel
