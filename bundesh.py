@@ -122,7 +122,7 @@ def main(fixtures_df):
             
             # Sanitize file name to remove invalid characters
             sanitized_file_name = sanitize_filename(file_name)
-            file_path = os.path.join(r'C:\Users\Boy Cakaraningrat\New folder\cekbundesh\Bundesh League', sanitized_file_name)
+            file_path = os.path.join(r'C:\Users\Boy Cakaraningrat\Documents\GitHub\Bundesh_Dasboard\Bundesh League', sanitized_file_name)
             
             save_to_csv(df, file_path)
         else:
@@ -132,7 +132,7 @@ def main(fixtures_df):
 
 if __name__ == "__main__":
     # Load the DataFrame that contains the fixture IDs
-    file_path = r'C:\Users\Boy Cakaraningrat\New folder\cekbundesh\updated.csv'
+    file_path = r'C:\Users\Boy Cakaraningrat\Documents\GitHub\Bundesh_Dasboard\updated.csv'
     final_competitors_df = pd.read_csv(file_path)
     
     # Call the main function to loop through fixtures and scrape
