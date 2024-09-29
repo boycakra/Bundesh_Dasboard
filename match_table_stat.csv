@@ -1,0 +1,1763 @@
+Jersey_number,Name,T,7M,7M W%,FT,W%,A,B,St,2Min,RK,P,P%,Team_Type,Team,Date
+1,* Constantin  Möstl,1,0,0.0,1,100.0,0,0,0,0,0,14,35.9,Home,TBV Lemgo Lippe,"05.09.2024, 19:00"
+2,* Lukas Hutecek,2,0,0.0,2,50.0,3,0,0,0,0,0,0.0,Home,TBV Lemgo Lippe,"05.09.2024, 19:00"
+3,* Nicolai Theilinger,1,0,0.0,1,33.33,0,0,0,0,0,0,0.0,Home,TBV Lemgo Lippe,"05.09.2024, 19:00"
+4,* Samuel Zehnder,2,2,66.67,0,66.67,0,0,0,0,0,0,0.0,Home,TBV Lemgo Lippe,"05.09.2024, 19:00"
+7,* Ben Connar Battermann,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Home,TBV Lemgo Lippe,"05.09.2024, 19:00"
+8,* Frederik Simak,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,TBV Lemgo Lippe,"05.09.2024, 19:00"
+14,* Bobby Schagen,2,0,0.0,2,66.67,0,0,0,0,0,0,0.0,Home,TBV Lemgo Lippe,"05.09.2024, 19:00"
+21,* Leve Carstensen,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,TBV Lemgo Lippe,"05.09.2024, 19:00"
+23,* Tim Suton,2,0,0.0,2,40.0,1,0,0,1,0,0,0.0,Home,TBV Lemgo Lippe,"05.09.2024, 19:00"
+25,* Niels Gerardus Versteijnen,2,0,0.0,2,50.0,1,0,0,0,0,0,0.0,Home,TBV Lemgo Lippe,"05.09.2024, 19:00"
+28,* Hendrik Wagner,4,0,0.0,4,57.14,0,2,0,1,0,0,0.0,Home,TBV Lemgo Lippe,"05.09.2024, 19:00"
+35,* Jarnes Faust,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,TBV Lemgo Lippe,"05.09.2024, 19:00"
+48,* Leos Petrovsky,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,TBV Lemgo Lippe,"05.09.2024, 19:00"
+99,* Urh Kastelic,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,TBV Lemgo Lippe,"05.09.2024, 19:00"
+1,* Adam Morawski,0,0,0.0,0,0.0,0,0,0,0,0,4,57.14,Away,MT Melsungen,"05.09.2024, 19:00"
+4,* Nikolaj Enderleit,3,0,0.0,3,60.0,1,0,0,0,0,0,0.0,Away,MT Melsungen,"05.09.2024, 19:00"
+6,* Erik Balenciaga,2,0,0.0,2,66.67,2,0,0,0,0,0,0.0,Away,MT Melsungen,"05.09.2024, 19:00"
+7,* David Mandic,1,0,0.0,1,50.0,1,1,0,0,0,0,0.0,Away,MT Melsungen,"05.09.2024, 19:00"
+8,* Adrian Sipos,1,0,0.0,1,50.0,0,0,1,2,0,0,0.0,Away,MT Melsungen,"05.09.2024, 19:00"
+10,* Dainis Kristopans,5,0,0.0,5,71.43,4,1,0,0,0,0,0.0,Away,MT Melsungen,"05.09.2024, 19:00"
+11,* Dimitri Ignatow,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,MT Melsungen,"05.09.2024, 19:00"
+13,* Rogerio  Moraes Ferreira,5,0,0.0,5,100.0,0,0,0,0,0,0,0.0,Away,MT Melsungen,"05.09.2024, 19:00"
+16,* Nebojsa Simic,0,0,0.0,0,0.0,0,0,0,0,0,10,38.46,Away,MT Melsungen,"05.09.2024, 19:00"
+21,* Arnar Freyr Arnarsson,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,MT Melsungen,"05.09.2024, 19:00"
+24,* Alexandre Cavalcanti,0,0,0.0,0,0.0,0,0,0,1,0,0,0.0,Away,MT Melsungen,"05.09.2024, 19:00"
+33,* Aaron  Mensing,4,0,0.0,4,66.67,2,0,0,0,0,0,0.0,Away,MT Melsungen,"05.09.2024, 19:00"
+53,* Bruno Eickhoff,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,MT Melsungen,"05.09.2024, 19:00"
+71,* Mohamed Amine Darmoul,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,MT Melsungen,"05.09.2024, 19:00"
+73,* Timo Kastening,4,0,0.0,4,80.0,0,0,1,0,0,0,0.0,Away,MT Melsungen,"05.09.2024, 19:00"
+83,* Ian Barrufet,2,1,33.33,1,33.33,0,0,1,1,0,0,0.0,Away,MT Melsungen,"05.09.2024, 19:00"
+4,* Adam Nyfjäll,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,TSV Hannover-Burgdorf,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+9,* Vilhelm Poulsen,2,0,0.0,2,100.0,0,0,0,1,0,0,0.0,Home,TSV Hannover-Burgdorf,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+10,* Renars Uscins,5,0,0.0,5,55.56,3,0,0,1,0,0,0.0,Home,TSV Hannover-Burgdorf,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+16,* Simon Gade,0,0,0.0,0,0.0,1,0,0,0,0,4,26.67,Home,TSV Hannover-Burgdorf,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+19,* Marius Steinhauser,10,6,75.0,4,71.43,0,0,0,2,0,0,0.0,Home,TSV Hannover-Burgdorf,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+22,* Marian Michalczik,2,0,0.0,2,100.0,2,1,0,2,0,0,0.0,Home,TSV Hannover-Burgdorf,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+23,* Uladzislau Kulesh,1,0,0.0,1,50.0,0,0,0,0,0,0,0.0,Home,TSV Hannover-Burgdorf,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+26,* Jonathan Edvardsson,2,0,0.0,2,50.0,0,0,0,0,0,0,0.0,Home,TSV Hannover-Burgdorf,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+28,* Maximilian  Gerbl,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,TSV Hannover-Burgdorf,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+35,* Joel Birlehm,0,0,0.0,0,0.0,0,0,0,0,0,8,30.77,Home,TSV Hannover-Burgdorf,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+39,* Lukas Stutzke,1,0,0.0,1,33.33,0,0,0,0,0,0,0.0,Home,TSV Hannover-Burgdorf,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+42,* Martin Hanne,0,0,0.0,0,0.0,0,0,1,0,0,0,0.0,Home,TSV Hannover-Burgdorf,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+44,* Thomas Alfred Solstad,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Home,TSV Hannover-Burgdorf,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+54,* Justus Fischer,3,0,0.0,3,60.0,0,1,1,0,0,0,0.0,Home,TSV Hannover-Burgdorf,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+56,* Hannes Feise,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,TSV Hannover-Burgdorf,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+74,* Vincent Büchner,1,0,0.0,1,25.0,1,0,1,0,0,0,0.0,Home,TSV Hannover-Burgdorf,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+1,* Dominik Kuzmanović,0,0,0.0,0,0.0,0,0,1,0,0,18,40.0,Away,VfL Gummersbach,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+4,* Ellidi Snaer Vidarsson,3,0,0.0,3,75.0,0,0,0,1,0,0,0.0,Away,VfL Gummersbach,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+5,* Tilen Kodrin,1,0,0.0,1,50.0,1,0,0,0,0,0,0.0,Away,VfL Gummersbach,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+6,* Milos Vujovic,8,5,83.33,3,88.89,0,0,0,0,0,0,0.0,Away,VfL Gummersbach,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+7,* Julian Köster,4,0,0.0,4,66.67,4,0,1,0,0,0,0.0,Away,VfL Gummersbach,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+8,* Lukas Blohme,5,1,100.0,4,71.43,0,0,1,0,0,0,0.0,Away,VfL Gummersbach,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+11,* Mathis Häseler,2,0,0.0,2,100.0,0,0,1,0,0,0,0.0,Away,VfL Gummersbach,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+14,* Teitur Örn Einarsson,1,0,0.0,1,33.33,4,0,0,0,0,0,0.0,Away,VfL Gummersbach,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+16,* Bertram Obling,0,0,0.0,0,0.0,0,0,0,0,0,1,50.0,Away,VfL Gummersbach,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+19,* Giorgi Tskhovrebadze,2,0,0.0,2,100.0,1,0,0,0,0,0,0.0,Away,VfL Gummersbach,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+22,* Kentin Mahé,4,0,0.0,4,80.0,1,0,0,1,0,0,0.0,Away,VfL Gummersbach,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+23,* Ole Pregler,0,0,0.0,0,0.0,1,0,0,0,0,0,0.0,Away,VfL Gummersbach,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+27,* Kristjan Horzen,1,0,0.0,1,100.0,0,0,1,0,0,0,0.0,Away,VfL Gummersbach,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+66,* Stepan Zeman,0,0,0.0,0,0.0,0,1,0,0,0,0,0.0,Away,VfL Gummersbach,"05.09.2024, 19:00
+Zuschauerzahl: 7122"
+1,* Mikael  Appelgren,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,Rhein-Neckar Löwen,"05.09.2024, 20:30"
+5,* Ivan Martinovic,10,2,50.0,8,62.5,4,0,1,1,0,0,0.0,Home,Rhein-Neckar Löwen,"05.09.2024, 20:30"
+8,* Tim Nothdurft,3,0,0.0,3,60.0,0,0,0,0,0,0,0.0,Home,Rhein-Neckar Löwen,"05.09.2024, 20:30"
+9,* Steven Plucnar Jacobsen,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,Rhein-Neckar Löwen,"05.09.2024, 20:30"
+10,* Juri Knorr,3,0,0.0,3,60.0,0,0,0,1,0,0,0.0,Home,Rhein-Neckar Löwen,"05.09.2024, 20:30"
+11,* Arnór Snær Óskarsson,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,Rhein-Neckar Löwen,"05.09.2024, 20:30"
+13,* Sebastian Heymann,6,0,0.0,6,100.0,1,1,0,1,0,0,0.0,Home,Rhein-Neckar Löwen,"05.09.2024, 20:30"
+15,* David Móré,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,Rhein-Neckar Löwen,"05.09.2024, 20:30"
+19,* Cedric Mayer,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,Rhein-Neckar Löwen,"05.09.2024, 20:30"
+22,* Gustav Davidsson,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,Rhein-Neckar Löwen,"05.09.2024, 20:30"
+24,* Patrick Groetzki,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,Rhein-Neckar Löwen,"05.09.2024, 20:30"
+25,* Olle Forsell Schefvert,0,0,0.0,0,0.0,2,1,0,0,0,0,0.0,Home,Rhein-Neckar Löwen,"05.09.2024, 20:30"
+29,* David Späth,0,0,0.0,0,0.0,0,0,0,0,0,13,34.21,Home,Rhein-Neckar Löwen,"05.09.2024, 20:30"
+34,* Valentin Willner,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,Rhein-Neckar Löwen,"05.09.2024, 20:30"
+42,* Jon Lindenchrone Andersen,5,0,0.0,5,62.5,0,1,0,0,0,0,0.0,Home,Rhein-Neckar Löwen,"05.09.2024, 20:30"
+45,* Halil Jaganjac,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,Rhein-Neckar Löwen,"05.09.2024, 20:30"
+80,* Jannik Kohlbacher,5,0,0.0,5,83.33,1,1,0,1,0,0,0.0,Home,Rhein-Neckar Löwen,"05.09.2024, 20:30"
+81,* Magnus Grupe,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,Rhein-Neckar Löwen,"05.09.2024, 20:30"
+4,* Domagoj Duvnjak,2,0,0.0,2,33.33,1,1,1,0,0,0,0.0,Away,THW Kiel,"05.09.2024, 20:30"
+6,* Harald Reinkind,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,THW Kiel,"05.09.2024, 20:30"
+7,* Magnus Landin Jacobsen,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,THW Kiel,"05.09.2024, 20:30"
+11,* Petter Øverby,2,0,0.0,2,66.67,0,0,0,1,0,0,0.0,Away,THW Kiel,"05.09.2024, 20:30"
+12,* Leon Nowottny,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,THW Kiel,"05.09.2024, 20:30"
+16,* Tomas Mrkva,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,THW Kiel,"05.09.2024, 20:30"
+17,* Patrick Wiencek,0,0,0.0,0,0.0,0,0,0,1,1,0,0.0,Away,THW Kiel,"05.09.2024, 20:30"
+19,* Henri Pabst,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,THW Kiel,"05.09.2024, 20:30"
+21,* Eric Johansson,5,0,0.0,5,83.33,6,0,0,0,0,0,0.0,Away,THW Kiel,"05.09.2024, 20:30"
+23,* Rune Dahmke,2,0,0.0,2,66.67,0,0,0,0,0,0,0.0,Away,THW Kiel,"05.09.2024, 20:30"
+24,* Lukas Zerbe,1,0,0.0,1,33.33,0,0,1,0,0,0,0.0,Away,THW Kiel,"05.09.2024, 20:30"
+25,* Linus Kutz,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,THW Kiel,"05.09.2024, 20:30"
+33,* Andreas Wolff,0,0,0.0,0,0.0,0,0,0,0,0,15,33.33,Away,THW Kiel,"05.09.2024, 20:30"
+34,* Samir Bellahcene,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,THW Kiel,"05.09.2024, 20:30"
+45,* Emil Wernsdorf  Madsen,10,0,0.0,10,76.92,2,0,0,0,0,0,0.0,Away,THW Kiel,"05.09.2024, 20:30"
+49,* Karl Erik Edvin Wallinius,0,0,0.0,0,0.0,1,0,0,0,0,0,0.0,Away,THW Kiel,"05.09.2024, 20:30"
+53,* Nikola Bilyk,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,THW Kiel,"05.09.2024, 20:30"
+61,* Hendrik Pekeler,4,0,0.0,4,57.14,0,0,0,2,0,0,0.0,Away,THW Kiel,"05.09.2024, 20:30"
+71,* Elias Ellefsen á Skipagøtu,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,THW Kiel,"05.09.2024, 20:30"
+91,* Bence Imre,1,1,33.33,0,33.33,0,0,0,0,0,0,0.0,Away,THW Kiel,"05.09.2024, 20:30"
+2,* Oskar Neudeck,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,FRISCH AUF! Göppingen,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+5,* Rutger ten Velde,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,FRISCH AUF! Göppingen,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+7,* Victor Klöve,1,0,0.0,1,33.33,1,0,0,0,0,0,0.0,Home,FRISCH AUF! Göppingen,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+9,* Andreas Flodman,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,FRISCH AUF! Göppingen,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+12,* Julian Buchele,0,0,0.0,0,0.0,0,0,0,0,0,4,25.0,Home,FRISCH AUF! Göppingen,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+13,* Josip Sarac,3,0,0.0,3,75.0,2,1,0,0,0,0,0.0,Home,FRISCH AUF! Göppingen,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+16,* Tibor Ivanisevic,0,0,0.0,0,0.0,0,0,0,0,0,3,18.75,Home,FRISCH AUF! Göppingen,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+22,* Erik Persson,1,0,0.0,1,50.0,2,0,0,0,0,0,0.0,Home,FRISCH AUF! Göppingen,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+24,* Marcel Schiller,7,2,66.67,5,70.0,0,0,0,1,0,0,0.0,Home,FRISCH AUF! Göppingen,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+25,* Ludvig Jurmala Aström,0,0,0.0,0,0.0,1,0,0,1,0,0,0.0,Home,FRISCH AUF! Göppingen,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+27,* Oskar Sunnefeldt,4,0,0.0,4,66.67,3,0,1,1,0,0,0.0,Home,FRISCH AUF! Göppingen,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+28,* Franko Lastro,4,0,0.0,4,100.0,0,0,0,0,0,0,0.0,Home,FRISCH AUF! Göppingen,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+33,* Ymir Örn Gislason,1,0,0.0,1,50.0,0,0,1,1,0,0,0.0,Home,FRISCH AUF! Göppingen,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+40,* Elias Newel,1,0,0.0,1,50.0,1,0,0,0,0,0,0.0,Home,FRISCH AUF! Göppingen,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+77,* David Schmidt,3,0,0.0,3,75.0,1,0,0,0,0,0,0.0,Home,FRISCH AUF! Göppingen,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+1,* Johannes Bitter,0,0,0.0,0,0.0,0,0,0,0,0,4,19.05,Away,Handball Sport Verein Hamburg,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+4,* Andreas Magaard,1,0,0.0,1,33.33,0,0,0,0,0,0,0.0,Away,Handball Sport Verein Hamburg,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+7,* Leif Tissier,6,0,0.0,6,66.67,4,0,0,0,0,0,0.0,Away,Handball Sport Verein Hamburg,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+9,* Jacob Arenth Lassen,4,0,0.0,4,57.14,0,0,1,2,0,0,0.0,Away,Handball Sport Verein Hamburg,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+13,* Niklas Weller,1,0,0.0,1,100.0,0,0,0,1,0,0,0.0,Away,Handball Sport Verein Hamburg,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+15,* Dominik Axmann,0,0,0.0,0,0.0,2,0,0,1,0,0,0.0,Away,Handball Sport Verein Hamburg,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+21,* Frederik Bo Andersen,5,2,100.0,3,100.0,0,0,0,0,0,0,0.0,Away,Handball Sport Verein Hamburg,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+24,* Alexander Hartwig,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Away,Handball Sport Verein Hamburg,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+31,* Levin Unbehaun,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,Handball Sport Verein Hamburg,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+32,* Finn Knaack,0,0,0.0,0,0.0,0,0,0,0,0,4,36.36,Away,Handball Sport Verein Hamburg,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+33,* Moritz Sauter,3,0,0.0,3,75.0,1,0,0,0,0,0,0.0,Away,Handball Sport Verein Hamburg,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+51,* Casper Mortensen,4,3,75.0,1,80.0,0,0,0,0,0,0,0.0,Away,Handball Sport Verein Hamburg,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+55,* Azat Valiullin,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,Handball Sport Verein Hamburg,"06.09.2024, 19:00
+Zuschauerzahl: 4400"
+1,* Benjamin Burić,0,0,0.0,0,0.0,0,0,0,0,0,4,20.0,Home,SG Flensburg-Handewitt,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+2,* Simon  Pytlick,2,0,0.0,2,50.0,2,0,0,0,0,0,0.0,Home,SG Flensburg-Handewitt,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+4,* Johannes Golla,1,0,0.0,1,100.0,0,0,2,0,0,0,0.0,Home,SG Flensburg-Handewitt,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+5,* Niclas Kirkeløkke,5,0,0.0,5,100.0,3,0,0,0,0,0,0.0,Home,SG Flensburg-Handewitt,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+19,* Oskar Czertowicz,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,SG Flensburg-Handewitt,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+20,* Kevin Møller,0,0,0.0,0,0.0,2,0,0,0,0,10,45.45,Home,SG Flensburg-Handewitt,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+22,* Mads  Mensah Larsen,2,0,0.0,2,66.67,1,0,0,0,0,0,0.0,Home,SG Flensburg-Handewitt,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+24,* Jim Gottfridsson,3,0,0.0,3,100.0,4,0,0,0,0,0,0.0,Home,SG Flensburg-Handewitt,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+25,* Lukas Jørgensen,1,0,0.0,1,33.33,1,0,0,0,0,0,0.0,Home,SG Flensburg-Handewitt,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+26,* Johan Hansen,4,0,0.0,4,66.67,1,0,0,0,0,0,0.0,Home,SG Flensburg-Handewitt,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+27,* Aksel Horgen,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Home,SG Flensburg-Handewitt,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+29,* August Pedersen,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Home,SG Flensburg-Handewitt,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+31,* Emil Jakobsen,11,1,100.0,10,91.67,0,0,1,0,0,0,0.0,Home,SG Flensburg-Handewitt,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+33,* Kay Smits,2,0,0.0,2,66.67,1,0,1,0,0,0,0.0,Home,SG Flensburg-Handewitt,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+43,* Blaž Blagotinšek,1,0,0.0,1,100.0,0,0,0,1,0,0,0.0,Home,SG Flensburg-Handewitt,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+64,* Lasse Møller,8,0,0.0,8,100.0,3,0,0,0,0,0,0.0,Home,SG Flensburg-Handewitt,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+4,* Stephan Seitz,3,0,0.0,3,100.0,0,0,0,0,0,0,0.0,Away,HC Erlangen,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+6,* Marek Nissen,3,0,0.0,3,37.5,0,0,0,0,0,0,0.0,Away,HC Erlangen,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+7,* Yannik Bialowas,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,HC Erlangen,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+8,* Sander Andreassen Øverjordet,3,0,0.0,3,60.0,2,0,0,0,0,0,0.0,Away,HC Erlangen,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+10,* Veit Mävers,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,HC Erlangen,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+21,* Christopher Bissel,1,0,0.0,1,33.33,0,0,1,1,0,0,0.0,Away,HC Erlangen,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+22,* Klemen Ferlin,0,0,0.0,0,0.0,0,0,0,0,0,3,13.64,Away,HC Erlangen,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+27,* Antonio Metzner,1,0,0.0,1,33.33,0,1,0,0,0,0,0.0,Away,HC Erlangen,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+28,* Jonathan Svensson,3,0,0.0,3,60.0,6,0,0,0,0,0,0.0,Away,HC Erlangen,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+33,* Nikolai Link,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,HC Erlangen,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+44,* Christoph Steinert,3,0,0.0,3,100.0,0,0,0,0,0,0,0.0,Away,HC Erlangen,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+55,* Tobias Wagner,2,0,0.0,2,50.0,0,0,0,0,0,0,0.0,Away,HC Erlangen,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+67,* Hampus Olsson,2,0,0.0,2,100.0,0,0,0,0,0,0,0.0,Away,HC Erlangen,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+95,* Tim Gömmel,4,3,100.0,1,80.0,0,0,0,0,0,0,0.0,Away,HC Erlangen,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+96,* Khalifa Ghedbane,0,0,0.0,0,0.0,1,0,0,0,0,5,17.86,Away,HC Erlangen,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+99,* Stefan Bauer,3,0,0.0,3,60.0,0,1,0,0,0,0,0.0,Away,HC Erlangen,"06.09.2024, 20:00
+Zuschauerzahl: 6120"
+1,* Sergey Hernández Ferrer,0,0,0.0,0,0.0,0,0,0,0,0,13,31.71,Home,SC Magdeburg,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+3,* Isak Persson,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,SC Magdeburg,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+6,* Matthias Musche,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,SC Magdeburg,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+8,* Manuel Zehnder,2,0,0.0,2,100.0,2,0,0,1,0,0,0.0,Home,SC Magdeburg,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+9,* Tim Zechel,1,0,0.0,1,100.0,0,0,0,1,0,0,0.0,Home,SC Magdeburg,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+10,* Gisli Thorgeir Kristjansson,6,0,0.0,6,66.67,1,0,0,0,0,0,0.0,Home,SC Magdeburg,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+11,* Daniel Pettersson,2,0,0.0,2,66.67,0,0,0,0,0,0,0.0,Home,SC Magdeburg,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+14,* Omar Ingi Magnusson,9,5,83.33,4,90.0,1,0,0,0,0,0,0.0,Home,SC Magdeburg,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+15,* Antonio Serradilla Cuenca,0,0,0.0,0,0.0,3,0,3,0,0,0,0.0,Home,SC Magdeburg,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+20,* Philipp Weber,7,0,0.0,7,58.33,0,0,0,0,0,0,0.0,Home,SC Magdeburg,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+21,* Albin Lagergren,1,0,0.0,1,100.0,1,0,0,1,0,0,0.0,Home,SC Magdeburg,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+22,* Lukas Mertens,4,0,0.0,4,80.0,1,0,0,0,0,0,0.0,Home,SC Magdeburg,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+23,* Magnus Saugstrup,2,0,0.0,2,66.67,2,1,2,0,0,0,0.0,Home,SC Magdeburg,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+24,* Christian O'Sullivan,1,0,0.0,1,100.0,3,0,0,0,0,0,0.0,Home,SC Magdeburg,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+34,* Michael Damgaard,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,SC Magdeburg,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+80,* Nikola Portner,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,SC Magdeburg,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+5,* Rasmus Meyer Ejlersen,3,0,0.0,3,100.0,0,0,0,1,0,0,0.0,Away,HSG Wetzlar,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+7,* Dominik Mappes,4,0,0.0,4,80.0,1,0,0,0,0,0,0.0,Away,HSG Wetzlar,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+9,* Ole Klimpke,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,HSG Wetzlar,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+10,* Zolt  Krakovszki,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,HSG Wetzlar,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+11,* Till Klimpke,0,0,0.0,0,0.0,0,0,0,0,0,5,23.81,Away,HSG Wetzlar,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+12,* Anadin Suljakovic,0,0,0.0,0,0.0,0,0,0,0,0,7,30.43,Away,HSG Wetzlar,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+14,* Vladimir Vranjes,3,0,0.0,3,100.0,0,0,0,1,0,0,0.0,Away,HSG Wetzlar,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+18,* Lukas Becher,0,0,0.0,0,0.0,0,0,0,1,0,0,0.0,Away,HSG Wetzlar,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+19,* Philipp Ahouansou,5,0,0.0,5,50.0,1,0,0,0,0,0,0.0,Away,HSG Wetzlar,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+22,* Jona Schoch,2,0,0.0,2,100.0,1,0,0,1,0,0,0.0,Away,HSG Wetzlar,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+25,* Justin Müller,1,0,0.0,1,100.0,2,0,0,0,0,0,0.0,Away,HSG Wetzlar,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+33,* Georg Löwen,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Away,HSG Wetzlar,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+42,* Nemanja Zelenovic,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,HSG Wetzlar,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+50,* Lion Zacharias,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,HSG Wetzlar,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+75,* Domen Novak,7,3,75.0,4,87.5,0,0,1,0,0,0,0.0,Away,HSG Wetzlar,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+77,* Stefan Cavor,2,0,0.0,2,50.0,2,0,0,0,0,0,0.0,Away,HSG Wetzlar,"07.09.2024, 18:00
+Zuschauerzahl: 6600"
+1,* Matija Spikic,0,0,0.0,0,0.0,0,0,0,0,0,3,25.0,Home,ThSV Eisenach,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+4,* Filip Vistorop,2,0,0.0,2,40.0,1,0,0,1,0,0,0.0,Home,ThSV Eisenach,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+5,* Timothy Reichmuth,3,0,0.0,3,75.0,0,0,0,0,0,0,0.0,Home,ThSV Eisenach,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+6,* Aleksandar Capric,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,ThSV Eisenach,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+10,* Fynn Hangstein,6,4,80.0,2,85.71,0,0,0,0,0,0,0.0,Home,ThSV Eisenach,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+11,* Gian Attenhofer,1,1,50.0,0,50.0,0,0,0,0,0,0,0.0,Home,ThSV Eisenach,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+12,* Silvio Heinevetter,0,0,0.0,0,0.0,0,0,0,0,0,5,14.29,Home,ThSV Eisenach,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+15,* Simone Mengon,4,0,0.0,4,66.67,3,0,0,0,0,0,0.0,Home,ThSV Eisenach,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+17,* Marko Grgic,6,0,0.0,6,75.0,4,0,0,0,0,0,0.0,Home,ThSV Eisenach,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+21,* Moritz Ende,6,0,0.0,6,85.71,0,0,0,0,0,0,0.0,Home,ThSV Eisenach,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+22,* Justin Kurch,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,ThSV Eisenach,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+27,* Philipp Meyer,0,0,0.0,0,0.0,1,0,0,1,0,0,0.0,Home,ThSV Eisenach,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+31,* Bastian Freitag,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,ThSV Eisenach,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+34,* Rok Maric,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,ThSV Eisenach,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+39,* Malte Donker,6,0,0.0,6,75.0,1,0,0,1,0,0,0.0,Home,ThSV Eisenach,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+47,* Dustin Kraus,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,ThSV Eisenach,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+52,* Justin Kurch,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Home,ThSV Eisenach,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+82,* Ivan Snajder,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,ThSV Eisenach,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+1,* Lasse Ludwig,0,0,0.0,0,0.0,0,0,0,0,0,7,33.33,Away,Füchse Berlin,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+3,* Fabian Wiede,0,0,0.0,0,0.0,3,0,0,0,0,0,0.0,Away,Füchse Berlin,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+5,* Max Darj,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,Füchse Berlin,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+9,* Jerry Tollbring,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,Füchse Berlin,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+11,* Lasse Bredekjaer Andersson,7,0,0.0,7,70.0,3,0,1,0,0,0,0.0,Away,Füchse Berlin,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+17,* Nils Lichtlein,3,0,0.0,3,100.0,2,0,0,0,0,0,0.0,Away,Füchse Berlin,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+19,* Mathias Gidsel,12,0,0.0,12,92.31,2,0,0,2,0,0,0.0,Away,Füchse Berlin,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+20,* Tim Freihöfer,12,6,100.0,6,100.0,0,0,0,0,0,0,0.0,Away,Füchse Berlin,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+25,* Matthes Langhoff,1,0,0.0,1,50.0,0,0,0,0,0,0,0.0,Away,Füchse Berlin,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+26,* Valter Chrintz,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,Füchse Berlin,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+27,* Max Beneke,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,Füchse Berlin,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+29,* Lukas Herburger,2,0,0.0,2,100.0,0,0,0,1,0,0,0.0,Away,Füchse Berlin,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+34,* Hakun West av Teigum,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Away,Füchse Berlin,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+36,* Tobias Reichmann,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Away,Füchse Berlin,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+93,* Mijajlo Marsenic,1,0,0.0,1,50.0,0,0,0,1,0,0,0.0,Away,Füchse Berlin,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+95,* Paul Drux,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,Füchse Berlin,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+96,* Dejan Milosavljev,1,0,0.0,1,100.0,1,0,0,0,0,6,22.22,Away,Füchse Berlin,"07.09.2024, 20:00
+Zuschauerzahl: 2775"
+1,* Domenico Ebner,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,SC DHfK Leipzig,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+4,* Andri Mar Runarsson,2,0,0.0,2,50.0,4,0,0,0,0,0,0.0,Home,SC DHfK Leipzig,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+5,* Simon Ernst,3,0,0.0,3,100.0,1,4,0,0,0,0,0.0,Home,SC DHfK Leipzig,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+7,* Luca Witzke,5,0,0.0,5,62.5,3,0,0,0,0,0,0.0,Home,SC DHfK Leipzig,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+8,* Lucas Krzikalla,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Home,SC DHfK Leipzig,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+9,* Nils Greilich,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,SC DHfK Leipzig,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+11,* Lukas Binder,4,0,0.0,4,80.0,0,0,0,0,0,0,0.0,Home,SC DHfK Leipzig,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+12,* Kristian Sæverås,0,0,0.0,0,0.0,0,0,0,0,0,10,41.67,Home,SC DHfK Leipzig,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+13,* Matej Klima,7,0,0.0,7,70.0,5,0,1,1,0,0,0.0,Home,SC DHfK Leipzig,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+14,* Marko Mamic,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,SC DHfK Leipzig,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+18,* Staffan Peter,3,0,0.0,3,75.0,1,0,1,0,0,0,0.0,Home,SC DHfK Leipzig,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+24,* Moritz Preuss,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,SC DHfK Leipzig,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+29,* Friedrich Schmitt,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,SC DHfK Leipzig,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+32,* Franz Semper,1,0,0.0,1,100.0,1,0,0,0,0,0,0.0,Home,SC DHfK Leipzig,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+33,* Luka Rogan,2,0,0.0,2,66.67,0,1,0,0,0,0,0.0,Home,SC DHfK Leipzig,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+73,* Viggó Kristjánsson,5,1,100.0,4,71.43,2,0,0,1,0,0,0.0,Home,SC DHfK Leipzig,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+0,* Luca Tschentscher,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,TVB Stuttgart,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+1,* Luca Krivokapic,0,0,0.0,0,0.0,1,0,0,0,0,3,25.0,Away,TVB Stuttgart,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+2,* Nico Bacani,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,TVB Stuttgart,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+3,* Max Häfner,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,TVB Stuttgart,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+5,* Jorge Serrano Villalobos,1,0,0.0,1,33.33,0,0,0,0,0,0,0.0,Away,TVB Stuttgart,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+6,* Daniel Fernandez Jimenez,4,1,100.0,3,66.67,0,0,0,0,0,0,0.0,Away,TVB Stuttgart,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+8,* Nico Schöttle,1,0,0.0,1,25.0,5,2,0,0,0,0,0.0,Away,TVB Stuttgart,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+9,* Gianfranco Pribetic,5,0,0.0,5,71.43,1,1,0,2,0,0,0.0,Away,TVB Stuttgart,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+10,* Jonas Truchanovicius,0,0,0.0,0,0.0,0,1,0,1,0,0,0.0,Away,TVB Stuttgart,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+11,* Bruno Reguart Massana,1,0,0.0,1,50.0,2,0,1,0,0,0,0.0,Away,TVB Stuttgart,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+13,* Achilleas Toskas,1,0,0.0,1,50.0,0,0,0,0,0,0,0.0,Away,TVB Stuttgart,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+14,* Ante Ivankovic,2,0,0.0,2,100.0,0,0,0,0,0,0,0.0,Away,TVB Stuttgart,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+16,* Miljan Vujovic,0,0,0.0,0,0.0,0,0,0,0,0,5,20.0,Away,TVB Stuttgart,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+17,* Samuel Röthlisberger,2,0,0.0,2,100.0,0,5,0,0,0,0,0.0,Away,TVB Stuttgart,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+24,* Lukas Laube,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,TVB Stuttgart,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+25,* Patrick Zieker,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Away,TVB Stuttgart,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+34,* Kai Häfner,2,0,0.0,2,40.0,3,0,0,0,0,0,0.0,Away,TVB Stuttgart,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+44,* Lenny Rubin,4,0,0.0,4,50.0,1,0,0,1,0,0,0.0,Away,TVB Stuttgart,"08.09.2024, 15:00
+Zuschauerzahl: 3692"
+1,* Frederik Höler,0,0,0.0,0,0.0,0,0,0,0,0,2,22.22,Home,1. VfL Potsdam,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+2,* Emil Hansson,0,0,0.0,0,0.0,0,0,0,2,0,0,0.0,Home,1. VfL Potsdam,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+5,* Josip Simic,4,0,0.0,4,66.67,0,0,0,2,0,0,0.0,Home,1. VfL Potsdam,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+6,* Marvin Siemer,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,1. VfL Potsdam,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+7,* Nicolas Paulnsteiner,0,0,0.0,0,0.0,0,0,0,1,0,0,0.0,Home,1. VfL Potsdam,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+10,* Elias Kofler,3,0,0.0,3,60.0,4,0,0,0,0,0,0.0,Home,1. VfL Potsdam,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+12,* Martin Tomovski,0,0,0.0,0,0.0,0,0,0,0,0,7,25.93,Home,1. VfL Potsdam,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+13,* Ole Schramm,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,1. VfL Potsdam,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+14,* Max Günther,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,1. VfL Potsdam,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+17,* Jannek Klein,3,0,0.0,3,60.0,4,0,0,0,0,0,0.0,Home,1. VfL Potsdam,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+19,* David Cyrill Akakpo,4,0,0.0,4,80.0,0,0,0,0,0,0,0.0,Home,1. VfL Potsdam,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+22,* Maxim Orlov,6,0,0.0,6,85.71,0,0,0,0,0,0,0.0,Home,1. VfL Potsdam,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+23,* Sergey Gorpishin,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,1. VfL Potsdam,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+27,* Nils Fuhrmann,5,3,75.0,2,83.33,0,0,0,0,0,0,0.0,Home,1. VfL Potsdam,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+28,* Marvin Kix,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,1. VfL Potsdam,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+35,* Nicholas Schley,1,0,0.0,1,50.0,0,0,0,0,0,0,0.0,Home,1. VfL Potsdam,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+3,* Nikola Vlahovic,2,0,0.0,2,100.0,1,1,0,1,0,0,0.0,Away,SG BBM Bietigheim,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+5,* Julius Kühn,3,0,0.0,3,50.0,2,0,0,0,0,0,0.0,Away,SG BBM Bietigheim,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+7,* Dominik Claus,3,0,0.0,3,100.0,3,0,0,1,0,0,0.0,Away,SG BBM Bietigheim,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+10,* Tom Wolf,4,1,100.0,3,66.67,1,0,0,0,0,0,0.0,Away,SG BBM Bietigheim,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+12,* Filip Baranasic,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,SG BBM Bietigheim,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+13,* Juan de la Peña,3,0,0.0,3,100.0,1,0,1,1,0,0,0.0,Away,SG BBM Bietigheim,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+14,* Fynn-Luca Nicolaus,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,SG BBM Bietigheim,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+16,* Fredrik Genz,0,0,0.0,0,0.0,0,0,0,0,0,6,20.0,Away,SG BBM Bietigheim,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+18,* Fabian Wiederstein,2,0,0.0,2,66.67,0,0,0,0,0,0,0.0,Away,SG BBM Bietigheim,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+19,* Gonzalo Perez Arce,5,0,0.0,5,83.33,0,0,0,0,0,0,0.0,Away,SG BBM Bietigheim,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+20,* Paco Barthe,0,0,0.0,0,0.0,1,0,0,0,0,0,0.0,Away,SG BBM Bietigheim,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+24,* Jona Bader,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,SG BBM Bietigheim,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+31,* Alexander Pfeifer,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,SG BBM Bietigheim,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+36,* Jonathan Fischer,3,0,0.0,3,75.0,0,0,0,1,0,0,0.0,Away,SG BBM Bietigheim,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+41,* Till Hermann,3,0,0.0,3,75.0,0,0,0,0,0,0,0.0,Away,SG BBM Bietigheim,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+64,* Maximilian Hejny,0,0,0.0,0,0.0,1,0,0,0,0,0,0.0,Away,SG BBM Bietigheim,"08.09.2024, 16:30
+Zuschauerzahl: 1535"
+1,* Adam Morawski,0,0,0.0,0,0.0,0,0,0,0,0,11,37.93,Home,MT Melsungen,"12.09.2024, 19:00"
+4,* Nikolaj Enderleit,5,0,0.0,5,83.33,4,0,0,0,0,0,0.0,Home,MT Melsungen,"12.09.2024, 19:00"
+6,* Erik Balenciaga,3,0,0.0,3,75.0,1,0,0,0,0,0,0.0,Home,MT Melsungen,"12.09.2024, 19:00"
+7,* David Mandic,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Home,MT Melsungen,"12.09.2024, 19:00"
+8,* Adrian Sipos,0,0,0.0,0,0.0,0,1,0,0,0,0,0.0,Home,MT Melsungen,"12.09.2024, 19:00"
+10,* Dainis Kristopans,1,0,0.0,1,100.0,5,0,0,0,0,0,0.0,Home,MT Melsungen,"12.09.2024, 19:00"
+11,* Dimitri Ignatow,3,0,0.0,3,75.0,2,0,0,0,0,0,0.0,Home,MT Melsungen,"12.09.2024, 19:00"
+13,* Rogerio  Moraes Ferreira,3,0,0.0,3,75.0,0,1,0,0,0,0,0.0,Home,MT Melsungen,"12.09.2024, 19:00"
+16,* Nebojsa Simic,0,0,0.0,0,0.0,0,0,0,0,0,2,28.57,Home,MT Melsungen,"12.09.2024, 19:00"
+19,* Elvar Örn Jonsson,2,0,0.0,2,50.0,0,0,0,0,0,0,0.0,Home,MT Melsungen,"12.09.2024, 19:00"
+21,* Arnar Freyr Arnarsson,2,0,0.0,2,100.0,0,0,0,0,0,0,0.0,Home,MT Melsungen,"12.09.2024, 19:00"
+24,* Alexandre Cavalcanti,3,0,0.0,3,60.0,0,0,0,0,0,0,0.0,Home,MT Melsungen,"12.09.2024, 19:00"
+33,* Aaron  Mensing,1,0,0.0,1,50.0,1,1,0,0,0,0,0.0,Home,MT Melsungen,"12.09.2024, 19:00"
+71,* Mohamed Amine Darmoul,0,0,0.0,0,0.0,2,0,0,0,0,0,0.0,Home,MT Melsungen,"12.09.2024, 19:00"
+73,* Timo Kastening,5,0,0.0,5,62.5,0,0,1,0,0,0,0.0,Home,MT Melsungen,"12.09.2024, 19:00"
+83,* Ian Barrufet,2,0,0.0,2,50.0,0,0,1,0,0,0,0.0,Home,MT Melsungen,"12.09.2024, 19:00"
+2,* Emil Hansson,1,0,0.0,1,100.0,2,0,0,2,0,0,0.0,Away,1. VfL Potsdam,"12.09.2024, 19:00"
+5,* Josip Simic,6,0,0.0,6,75.0,0,0,0,1,0,0,0.0,Away,1. VfL Potsdam,"12.09.2024, 19:00"
+6,* Marvin Siemer,2,1,50.0,1,66.67,0,0,0,0,0,0,0.0,Away,1. VfL Potsdam,"12.09.2024, 19:00"
+7,* Nicolas Paulnsteiner,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,1. VfL Potsdam,"12.09.2024, 19:00"
+10,* Elias Kofler,3,0,0.0,3,50.0,5,0,0,0,0,0,0.0,Away,1. VfL Potsdam,"12.09.2024, 19:00"
+12,* Martin Tomovski,0,0,0.0,0,0.0,0,0,0,0,0,5,20.83,Away,1. VfL Potsdam,"12.09.2024, 19:00"
+13,* Ole Schramm,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,1. VfL Potsdam,"12.09.2024, 19:00"
+14,* Max Günther,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,1. VfL Potsdam,"12.09.2024, 19:00"
+17,* Jannek Klein,4,0,0.0,4,57.14,1,0,0,0,0,0,0.0,Away,1. VfL Potsdam,"12.09.2024, 19:00"
+19,* David Cyrill Akakpo,2,0,0.0,2,66.67,0,0,0,0,0,0,0.0,Away,1. VfL Potsdam,"12.09.2024, 19:00"
+22,* Maxim Orlov,1,0,0.0,1,25.0,2,0,0,0,0,0,0.0,Away,1. VfL Potsdam,"12.09.2024, 19:00"
+23,* Sergey Gorpishin,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,1. VfL Potsdam,"12.09.2024, 19:00"
+27,* Nils Fuhrmann,3,2,100.0,1,100.0,0,0,0,1,0,0,0.0,Away,1. VfL Potsdam,"12.09.2024, 19:00"
+28,* Marvin Kix,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,1. VfL Potsdam,"12.09.2024, 19:00"
+35,* Nicholas Schley,1,0,0.0,1,50.0,0,0,0,0,0,0,0.0,Away,1. VfL Potsdam,"12.09.2024, 19:00"
+77,* Mark Ferjan,0,0,0.0,0,0.0,0,0,0,0,0,6,33.33,Away,1. VfL Potsdam,"12.09.2024, 19:00"
+4,* Domagoj Duvnjak,3,0,0.0,3,50.0,5,1,0,1,0,0,0.0,Home,THW Kiel,"12.09.2024, 19:00"
+7,* Magnus Landin Jacobsen,3,0,0.0,3,75.0,1,0,0,0,0,0,0.0,Home,THW Kiel,"12.09.2024, 19:00"
+11,* Petter Øverby,1,0,0.0,1,50.0,0,0,0,0,0,0,0.0,Home,THW Kiel,"12.09.2024, 19:00"
+17,* Patrick Wiencek,1,0,0.0,1,100.0,0,0,0,1,0,0,0.0,Home,THW Kiel,"12.09.2024, 19:00"
+19,* Henri Pabst,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,THW Kiel,"12.09.2024, 19:00"
+21,* Eric Johansson,6,0,0.0,6,85.71,4,0,0,0,0,0,0.0,Home,THW Kiel,"12.09.2024, 19:00"
+23,* Rune Dahmke,1,0,0.0,1,50.0,0,0,0,0,0,0,0.0,Home,THW Kiel,"12.09.2024, 19:00"
+24,* Lukas Zerbe,4,0,0.0,4,50.0,0,0,0,0,0,0,0.0,Home,THW Kiel,"12.09.2024, 19:00"
+25,* Linus Kutz,0,0,0.0,0,0.0,1,0,0,0,0,0,0.0,Home,THW Kiel,"12.09.2024, 19:00"
+33,* Andreas Wolff,0,0,0.0,0,0.0,0,0,0,0,0,11,36.67,Home,THW Kiel,"12.09.2024, 19:00"
+34,* Samir Bellahcene,0,0,0.0,0,0.0,0,0,0,0,0,2,33.33,Home,THW Kiel,"12.09.2024, 19:00"
+45,* Emil Wernsdorf  Madsen,9,5,100.0,4,75.0,1,0,0,0,0,0,0.0,Home,THW Kiel,"12.09.2024, 19:00"
+61,* Hendrik Pekeler,3,0,0.0,3,75.0,2,0,0,0,0,0,0.0,Home,THW Kiel,"12.09.2024, 19:00"
+91,* Bence Imre,2,0,0.0,2,66.67,0,0,0,0,0,0,0.0,Home,THW Kiel,"12.09.2024, 19:00"
+2,* Oskar Neudeck,1,0,0.0,1,50.0,0,0,0,0,0,0,0.0,Away,FRISCH AUF! Göppingen,"12.09.2024, 19:00"
+5,* Rutger ten Velde,1,0,0.0,1,100.0,0,0,0,1,0,0,0.0,Away,FRISCH AUF! Göppingen,"12.09.2024, 19:00"
+7,* Victor Klöve,0,0,0.0,0,0.0,1,0,0,0,0,0,0.0,Away,FRISCH AUF! Göppingen,"12.09.2024, 19:00"
+9,* Andreas Flodman,2,0,0.0,2,100.0,0,0,0,0,0,0,0.0,Away,FRISCH AUF! Göppingen,"12.09.2024, 19:00"
+12,* Julian Buchele,0,0,0.0,0,0.0,0,0,0,0,0,5,35.71,Away,FRISCH AUF! Göppingen,"12.09.2024, 19:00"
+13,* Josip Sarac,2,0,0.0,2,50.0,0,1,0,1,0,0,0.0,Away,FRISCH AUF! Göppingen,"12.09.2024, 19:00"
+16,* Tibor Ivanisevic,0,0,0.0,0,0.0,0,0,0,0,0,5,18.52,Away,FRISCH AUF! Göppingen,"12.09.2024, 19:00"
+20,* Ludvig Hallbäck,1,0,0.0,1,50.0,1,0,0,0,0,0,0.0,Away,FRISCH AUF! Göppingen,"12.09.2024, 19:00"
+22,* Erik Persson,6,0,0.0,6,75.0,1,0,0,1,0,0,0.0,Away,FRISCH AUF! Göppingen,"12.09.2024, 19:00"
+24,* Marcel Schiller,1,1,50.0,0,25.0,0,0,0,0,0,0,0.0,Away,FRISCH AUF! Göppingen,"12.09.2024, 19:00"
+25,* Ludvig Jurmala Aström,3,0,0.0,3,60.0,0,0,0,0,0,0,0.0,Away,FRISCH AUF! Göppingen,"12.09.2024, 19:00"
+27,* Oskar Sunnefeldt,0,0,0.0,0,0.0,1,0,0,0,0,0,0.0,Away,FRISCH AUF! Göppingen,"12.09.2024, 19:00"
+28,* Franko Lastro,1,0,0.0,1,33.33,1,0,0,0,0,0,0.0,Away,FRISCH AUF! Göppingen,"12.09.2024, 19:00"
+33,* Ymir Örn Gislason,2,0,0.0,2,66.67,0,0,0,0,0,0,0.0,Away,FRISCH AUF! Göppingen,"12.09.2024, 19:00"
+40,* Elias Newel,1,0,0.0,1,100.0,1,0,0,0,0,0,0.0,Away,FRISCH AUF! Göppingen,"12.09.2024, 19:00"
+77,* David Schmidt,3,0,0.0,3,75.0,1,0,0,0,0,0,0.0,Away,FRISCH AUF! Göppingen,"12.09.2024, 19:00"
+4,* Stephan Seitz,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,HC Erlangen,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+6,* Marek Nissen,3,0,0.0,3,60.0,3,0,0,0,0,0,0.0,Home,HC Erlangen,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+7,* Yannik Bialowas,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,HC Erlangen,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+8,* Sander Andreassen Øverjordet,3,0,0.0,3,50.0,1,0,0,1,0,0,0.0,Home,HC Erlangen,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+10,* Florian Scheerer,1,0,0.0,1,33.33,0,0,0,1,0,0,0.0,Home,HC Erlangen,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+21,* Christopher Bissel,2,0,0.0,2,66.67,2,0,2,1,0,0,0.0,Home,HC Erlangen,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+22,* Klemen Ferlin,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,HC Erlangen,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+27,* Antonio Metzner,3,0,0.0,3,60.0,0,0,0,0,0,0,0.0,Home,HC Erlangen,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+28,* Jonathan Svensson,1,0,0.0,1,100.0,0,0,0,1,0,0,0.0,Home,HC Erlangen,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+33,* Nikolai Link,0,0,0.0,0,0.0,0,1,0,1,0,0,0.0,Home,HC Erlangen,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+44,* Christoph Steinert,3,0,0.0,3,75.0,0,0,0,1,0,0,0.0,Home,HC Erlangen,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+55,* Tobias Wagner,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,HC Erlangen,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+67,* Hampus Olsson,4,0,0.0,4,66.67,0,0,0,0,0,0,0.0,Home,HC Erlangen,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+95,* Tim Gömmel,3,3,75.0,0,75.0,0,0,0,0,0,0,0.0,Home,HC Erlangen,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+96,* Khalifa Ghedbane,0,0,0.0,0,0.0,1,0,0,0,0,8,33.33,Home,HC Erlangen,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+99,* Stefan Bauer,1,0,0.0,1,100.0,0,0,0,1,0,0,0.0,Home,HC Erlangen,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+1,* Matija Spikic,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,ThSV Eisenach,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+4,* Filip Vistorop,1,0,0.0,1,25.0,1,0,0,0,0,0,0.0,Away,ThSV Eisenach,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+5,* Timothy Reichmuth,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Away,ThSV Eisenach,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+11,* Gian Attenhofer,2,2,50.0,0,50.0,0,0,0,0,0,0,0.0,Away,ThSV Eisenach,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+12,* Silvio Heinevetter,0,0,0.0,0,0.0,0,0,0,0,0,8,25.81,Away,ThSV Eisenach,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+14,* Peter Walz,1,0,0.0,1,100.0,0,1,0,0,0,0,0.0,Away,ThSV Eisenach,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+15,* Simone Mengon,3,0,0.0,3,75.0,2,0,0,0,0,0,0.0,Away,ThSV Eisenach,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+17,* Marko Grgic,4,1,100.0,3,50.0,9,0,0,0,0,0,0.0,Away,ThSV Eisenach,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+21,* Moritz Ende,7,0,0.0,7,100.0,0,0,1,0,0,0,0.0,Away,ThSV Eisenach,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+27,* Philipp Meyer,3,0,0.0,3,100.0,0,0,0,2,0,0,0.0,Away,ThSV Eisenach,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+34,* Rok Maric,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,ThSV Eisenach,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+39,* Malte Donker,1,0,0.0,1,100.0,1,0,0,2,0,0,0.0,Away,ThSV Eisenach,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+47,* Dustin Kraus,2,0,0.0,2,100.0,0,0,0,0,0,0,0.0,Away,ThSV Eisenach,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+52,* Justin Kurch,1,0,0.0,1,100.0,0,0,0,2,0,0,0.0,Away,ThSV Eisenach,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+82,* Ivan Snajder,2,0,0.0,2,100.0,0,0,0,1,0,0,0.0,Away,ThSV Eisenach,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+95,* Alexander Saul,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,ThSV Eisenach,"13.09.2024, 19:00
+Zuschauerzahl: 5376"
+3,* Nikola Vlahovic,3,0,0.0,3,100.0,1,0,0,0,0,0,0.0,Home,SG BBM Bietigheim,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+5,* Julius Kühn,2,0,0.0,2,40.0,2,2,0,0,0,0,0.0,Home,SG BBM Bietigheim,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+7,* Dominik Claus,3,0,0.0,3,50.0,1,0,1,0,0,0,0.0,Home,SG BBM Bietigheim,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+10,* Tom Wolf,0,0,0.0,0,0.0,2,0,0,0,0,0,0.0,Home,SG BBM Bietigheim,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+12,* Filip Baranasic,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,SG BBM Bietigheim,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+13,* Juan de la Peña,0,0,0.0,0,0.0,0,0,0,1,0,0,0.0,Home,SG BBM Bietigheim,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+14,* Fynn-Luca Nicolaus,1,1,100.0,0,100.0,1,0,0,1,0,0,0.0,Home,SG BBM Bietigheim,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+16,* Fredrik Genz,0,0,0.0,0,0.0,0,0,0,0,0,13,29.55,Home,SG BBM Bietigheim,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+18,* Fabian Wiederstein,0,0,0.0,0,0.0,0,0,0,1,0,0,0.0,Home,SG BBM Bietigheim,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+19,* Gonzalo Perez Arce,2,2,100.0,0,66.67,0,0,0,0,0,0,0.0,Home,SG BBM Bietigheim,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+20,* Paco Barthe,1,0,0.0,1,50.0,1,0,0,0,0,0,0.0,Home,SG BBM Bietigheim,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+29,* Moritz Strosack,5,0,0.0,5,100.0,0,0,1,0,0,0,0.0,Home,SG BBM Bietigheim,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+31,* Alexander Pfeifer,3,0,0.0,3,50.0,0,0,0,0,0,0,0.0,Home,SG BBM Bietigheim,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+36,* Jonathan Fischer,4,0,0.0,4,57.14,1,0,0,0,0,0,0.0,Home,SG BBM Bietigheim,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+41,* Till Hermann,1,0,0.0,1,50.0,2,0,2,0,0,0,0.0,Home,SG BBM Bietigheim,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+64,* Maximilian Hejny,0,0,0.0,0,0.0,0,0,1,0,0,0,0.0,Home,SG BBM Bietigheim,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+1,* Mikael  Appelgren,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,Rhein-Neckar Löwen,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+5,* Ivan Martinovic,11,5,100.0,6,84.62,3,0,1,0,0,0,0.0,Away,Rhein-Neckar Löwen,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+8,* Tim Nothdurft,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,Rhein-Neckar Löwen,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+9,* Steven Plucnar Jacobsen,2,0,0.0,2,40.0,0,0,0,0,0,0,0.0,Away,Rhein-Neckar Löwen,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+10,* Juri Knorr,8,0,0.0,8,72.73,2,0,0,0,0,0,0.0,Away,Rhein-Neckar Löwen,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+11,* Arnór Snær Óskarsson,0,0,0.0,0,0.0,1,0,0,0,0,0,0.0,Away,Rhein-Neckar Löwen,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+13,* Sebastian Heymann,1,0,0.0,1,50.0,0,1,0,4,2,0,0.0,Away,Rhein-Neckar Löwen,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+15,* David Móré,3,0,0.0,3,75.0,0,0,0,0,0,0,0.0,Away,Rhein-Neckar Löwen,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+22,* Gustav Davidsson,1,0,0.0,1,33.33,1,0,0,0,0,0,0.0,Away,Rhein-Neckar Löwen,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+24,* Patrick Groetzki,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,Rhein-Neckar Löwen,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+25,* Olle Forsell Schefvert,2,0,0.0,2,100.0,3,1,0,0,0,0,0.0,Away,Rhein-Neckar Löwen,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+29,* David Späth,0,0,0.0,0,0.0,3,0,0,0,0,21,46.67,Away,Rhein-Neckar Löwen,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+42,* Jon Lindenchrone Andersen,4,0,0.0,4,66.67,0,0,0,0,0,0,0.0,Away,Rhein-Neckar Löwen,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+80,* Jannik Kohlbacher,1,0,0.0,1,25.0,0,0,0,0,0,0,0.0,Away,Rhein-Neckar Löwen,"14.09.2024, 19:00
+Zuschauerzahl: 3444"
+1,* Johannes Bitter,0,0,0.0,0,0.0,0,0,0,0,0,2,10.53,Home,Handball Sport Verein Hamburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+4,* Andreas Magaard,2,0,0.0,2,100.0,0,0,0,1,0,0,0.0,Home,Handball Sport Verein Hamburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+7,* Leif Tissier,2,0,0.0,2,100.0,3,1,0,0,0,0,0.0,Home,Handball Sport Verein Hamburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+9,* Jacob Arenth Lassen,5,0,0.0,5,50.0,2,0,0,0,0,0,0.0,Home,Handball Sport Verein Hamburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+13,* Niklas Weller,2,0,0.0,2,66.67,0,0,0,0,0,0,0.0,Home,Handball Sport Verein Hamburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+15,* Dominik Axmann,4,0,0.0,4,80.0,0,0,0,2,0,0,0.0,Home,Handball Sport Verein Hamburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+21,* Frederik Bo Andersen,7,2,66.67,5,77.78,0,0,0,0,0,0,0.0,Home,Handball Sport Verein Hamburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+24,* Alexander Hartwig,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Home,Handball Sport Verein Hamburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+31,* Levin Unbehaun,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Home,Handball Sport Verein Hamburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+32,* Finn Knaack,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,Handball Sport Verein Hamburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+33,* Moritz Sauter,1,0,0.0,1,33.33,2,0,0,0,0,0,0.0,Home,Handball Sport Verein Hamburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+51,* Casper Mortensen,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,Handball Sport Verein Hamburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+55,* Azat Valiullin,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Home,Handball Sport Verein Hamburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+1,* Sergey Hernández Ferrer,0,0,0.0,0,0.0,0,0,0,0,0,7,22.58,Away,SC Magdeburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+3,* Isak Persson,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,SC Magdeburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+6,* Matthias Musche,9,0,0.0,9,90.0,0,0,0,0,0,0,0.0,Away,SC Magdeburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+8,* Manuel Zehnder,3,0,0.0,3,100.0,1,0,0,0,0,0,0.0,Away,SC Magdeburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+9,* Tim Zechel,2,0,0.0,2,100.0,0,0,0,1,0,0,0.0,Away,SC Magdeburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+10,* Gisli Thorgeir Kristjansson,1,0,0.0,1,33.33,5,0,0,0,0,0,0.0,Away,SC Magdeburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+11,* Daniel Pettersson,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,SC Magdeburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+14,* Omar Ingi Magnusson,5,4,100.0,1,83.33,0,0,0,0,0,0,0.0,Away,SC Magdeburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+15,* Antonio Serradilla Cuenca,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Away,SC Magdeburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+20,* Philipp Weber,5,0,0.0,5,100.0,2,0,0,0,0,0,0.0,Away,SC Magdeburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+21,* Albin Lagergren,2,0,0.0,2,100.0,0,0,0,0,0,0,0.0,Away,SC Magdeburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+22,* Lukas Mertens,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,SC Magdeburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+23,* Magnus Saugstrup,3,0,0.0,3,100.0,1,0,0,1,0,0,0.0,Away,SC Magdeburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+24,* Christian O'Sullivan,1,0,0.0,1,100.0,1,0,0,0,0,0,0.0,Away,SC Magdeburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+34,* Michael Damgaard,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,SC Magdeburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+80,* Nikola Portner,0,0,0.0,0,0.0,0,0,0,0,0,1,50.0,Away,SC Magdeburg,"15.09.2024, 15:00
+Zuschauerzahl: 4481"
+1,* Dominik Kuzmanović,0,0,0.0,0,0.0,1,0,0,0,0,5,22.73,Home,VfL Gummersbach,"15.09.2024, 16:30"
+4,* Ellidi Snaer Vidarsson,4,0,0.0,4,80.0,0,0,1,0,0,0,0.0,Home,VfL Gummersbach,"15.09.2024, 16:30"
+5,* Tilen Kodrin,3,0,0.0,3,100.0,0,1,0,0,0,0,0.0,Home,VfL Gummersbach,"15.09.2024, 16:30"
+6,* Milos Vujovic,3,2,100.0,1,75.0,0,0,0,0,0,0,0.0,Home,VfL Gummersbach,"15.09.2024, 16:30"
+7,* Julian Köster,3,0,0.0,3,50.0,1,2,0,1,0,0,0.0,Home,VfL Gummersbach,"15.09.2024, 16:30"
+8,* Lukas Blohme,4,0,0.0,4,100.0,1,0,0,0,0,0,0.0,Home,VfL Gummersbach,"15.09.2024, 16:30"
+11,* Mathis Häseler,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,VfL Gummersbach,"15.09.2024, 16:30"
+14,* Teitur Örn Einarsson,3,0,0.0,3,27.27,3,0,0,0,0,0,0.0,Home,VfL Gummersbach,"15.09.2024, 16:30"
+15,* Miro Schluroff,3,0,0.0,3,100.0,2,0,0,0,0,0,0.0,Home,VfL Gummersbach,"15.09.2024, 16:30"
+16,* Bertram Obling,0,0,0.0,0,0.0,0,0,0,0,0,5,29.41,Home,VfL Gummersbach,"15.09.2024, 16:30"
+19,* Giorgi Tskhovrebadze,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,VfL Gummersbach,"15.09.2024, 16:30"
+22,* Kentin Mahé,0,0,0.0,0,0.0,1,0,0,0,0,0,0.0,Home,VfL Gummersbach,"15.09.2024, 16:30"
+23,* Ole Pregler,0,0,0.0,0,0.0,4,0,0,0,0,0,0.0,Home,VfL Gummersbach,"15.09.2024, 16:30"
+27,* Kristjan Horzen,4,0,0.0,4,80.0,1,0,0,0,0,0,0.0,Home,VfL Gummersbach,"15.09.2024, 16:30"
+66,* Stepan Zeman,0,0,0.0,0,0.0,0,2,0,1,0,0,0.0,Home,VfL Gummersbach,"15.09.2024, 16:30"
+1,* Constantin  Möstl,0,0,0.0,0,0.0,0,0,0,0,0,12,32.43,Away,TBV Lemgo Lippe,"15.09.2024, 16:30"
+2,* Lukas Hutecek,3,0,0.0,3,50.0,5,0,0,0,0,0,0.0,Away,TBV Lemgo Lippe,"15.09.2024, 16:30"
+3,* Nicolai Theilinger,0,0,0.0,0,0.0,1,0,0,1,0,0,0.0,Away,TBV Lemgo Lippe,"15.09.2024, 16:30"
+4,* Samuel Zehnder,3,3,100.0,0,100.0,0,0,0,0,0,0,0.0,Away,TBV Lemgo Lippe,"15.09.2024, 16:30"
+5,* Jan Brosch,3,0,0.0,3,75.0,0,0,0,0,0,0,0.0,Away,TBV Lemgo Lippe,"15.09.2024, 16:30"
+7,* Ben Connar Battermann,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,TBV Lemgo Lippe,"15.09.2024, 16:30"
+8,* Frederik Simak,1,0,0.0,1,100.0,0,1,0,1,0,0,0.0,Away,TBV Lemgo Lippe,"15.09.2024, 16:30"
+14,* Bobby Schagen,2,0,0.0,2,50.0,1,0,1,0,0,0,0.0,Away,TBV Lemgo Lippe,"15.09.2024, 16:30"
+21,* Leve Carstensen,4,0,0.0,4,100.0,0,0,1,0,0,0,0.0,Away,TBV Lemgo Lippe,"15.09.2024, 16:30"
+23,* Tim Suton,7,0,0.0,7,100.0,1,0,0,0,0,0,0.0,Away,TBV Lemgo Lippe,"15.09.2024, 16:30"
+25,* Niels Gerardus Versteijnen,4,0,0.0,4,44.44,1,0,0,0,0,0,0.0,Away,TBV Lemgo Lippe,"15.09.2024, 16:30"
+28,* Hendrik Wagner,2,0,0.0,2,40.0,1,0,0,1,0,0,0.0,Away,TBV Lemgo Lippe,"15.09.2024, 16:30"
+37,* Frederik Puls,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,TBV Lemgo Lippe,"15.09.2024, 16:30"
+39,* Meeno Carstensen,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,TBV Lemgo Lippe,"15.09.2024, 16:30"
+99,* Urh Kastelic,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,TBV Lemgo Lippe,"15.09.2024, 16:30"
+5,* Rasmus Meyer Ejlersen,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,HSG Wetzlar,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+7,* Dominik Mappes,2,0,0.0,2,40.0,1,0,0,0,0,0,0.0,Home,HSG Wetzlar,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+10,* Zolt  Krakovszki,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,HSG Wetzlar,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+11,* Till Klimpke,0,0,0.0,0,0.0,0,0,0,0,0,3,13.64,Home,HSG Wetzlar,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+12,* Anadin Suljakovic,0,0,0.0,0,0.0,0,0,0,0,0,3,21.43,Home,HSG Wetzlar,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+14,* Vladimir Vranjes,1,0,0.0,1,100.0,0,0,0,2,0,0,0.0,Home,HSG Wetzlar,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+17,* Noel Hoepfner,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,HSG Wetzlar,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+18,* Lukas Becher,2,0,0.0,2,66.67,0,0,0,0,0,0,0.0,Home,HSG Wetzlar,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+19,* Philipp Ahouansou,7,0,0.0,7,70.0,0,0,1,0,0,0,0.0,Home,HSG Wetzlar,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+22,* Jona Schoch,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,HSG Wetzlar,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+25,* Justin Müller,4,0,0.0,4,66.67,1,0,0,1,0,0,0.0,Home,HSG Wetzlar,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+33,* Georg Löwen,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Home,HSG Wetzlar,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+42,* Nemanja Zelenovic,0,0,0.0,0,0.0,1,0,0,0,0,0,0.0,Home,HSG Wetzlar,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+50,* Lion Zacharias,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,HSG Wetzlar,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+75,* Domen Novak,3,2,100.0,1,100.0,1,0,0,0,0,0,0.0,Home,HSG Wetzlar,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+77,* Stefan Cavor,5,0,0.0,5,100.0,3,0,0,0,0,0,0.0,Home,HSG Wetzlar,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+4,* Adam Nyfjäll,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,TSV Hannover-Burgdorf,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+9,* Vilhelm Poulsen,1,0,0.0,1,50.0,1,0,0,0,0,0,0.0,Away,TSV Hannover-Burgdorf,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+10,* Renars Uscins,7,0,0.0,7,87.5,1,0,0,0,0,0,0.0,Away,TSV Hannover-Burgdorf,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+16,* Simon Gade,0,0,0.0,0,0.0,3,0,0,0,0,8,36.36,Away,TSV Hannover-Burgdorf,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+19,* Marius Steinhauser,6,2,50.0,4,66.67,1,0,1,0,0,0,0.0,Away,TSV Hannover-Burgdorf,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+22,* Marian Michalczik,0,0,0.0,0,0.0,4,0,0,1,0,0,0.0,Away,TSV Hannover-Burgdorf,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+23,* Uladzislau Kulesh,2,0,0.0,2,100.0,0,0,0,0,0,0,0.0,Away,TSV Hannover-Burgdorf,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+26,* Jonathan Edvardsson,3,0,0.0,3,75.0,4,0,0,0,0,0,0.0,Away,TSV Hannover-Burgdorf,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+28,* Maximilian  Gerbl,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,TSV Hannover-Burgdorf,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+35,* Joel Birlehm,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,TSV Hannover-Burgdorf,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+39,* Lukas Stutzke,2,0,0.0,2,100.0,2,0,0,1,0,0,0.0,Away,TSV Hannover-Burgdorf,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+42,* Martin Hanne,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,TSV Hannover-Burgdorf,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+44,* Thomas Alfred Solstad,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Away,TSV Hannover-Burgdorf,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+54,* Justus Fischer,9,1,100.0,8,100.0,0,1,0,0,0,0,0.0,Away,TSV Hannover-Burgdorf,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+56,* Hannes Feise,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,TSV Hannover-Burgdorf,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+74,* Vincent Büchner,5,0,0.0,5,71.43,1,0,1,0,0,0,0.0,Away,TSV Hannover-Burgdorf,"15.09.2024, 16:30
+Zuschauerzahl: 4275"
+1,* Luca Krivokapic,0,0,0.0,0,0.0,0,0,0,0,0,1,10.0,Home,TVB Stuttgart,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+2,* Nico Bacani,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,TVB Stuttgart,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+5,* Jorge Serrano Villalobos,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,TVB Stuttgart,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+6,* Daniel Fernandez Jimenez,1,1,100.0,0,100.0,0,0,0,0,0,0,0.0,Home,TVB Stuttgart,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+8,* Nico Schöttle,1,0,0.0,1,33.33,0,0,0,0,0,0,0.0,Home,TVB Stuttgart,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+9,* Gianfranco Pribetic,5,0,0.0,5,62.5,0,0,1,0,0,0,0.0,Home,TVB Stuttgart,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+11,* Bruno Reguart Massana,0,0,0.0,0,0.0,1,0,0,0,0,0,0.0,Home,TVB Stuttgart,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+13,* Achilleas Toskas,1,0,0.0,1,50.0,0,0,0,0,0,0,0.0,Home,TVB Stuttgart,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+14,* Ante Ivankovic,4,0,0.0,4,57.14,0,0,0,0,0,0,0.0,Home,TVB Stuttgart,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+16,* Miljan Vujovic,0,0,0.0,0,0.0,0,0,0,1,0,10,25.0,Home,TVB Stuttgart,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+17,* Samuel Röthlisberger,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,TVB Stuttgart,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+25,* Patrick Zieker,1,0,0.0,1,50.0,0,0,0,1,0,0,0.0,Home,TVB Stuttgart,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+34,* Kai Häfner,7,0,0.0,7,87.5,5,0,0,0,0,0,0.0,Home,TVB Stuttgart,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+44,* Lenny Rubin,5,0,0.0,5,55.56,0,0,0,1,1,0,0.0,Home,TVB Stuttgart,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+1,* Benjamin Burić,0,0,0.0,0,0.0,0,0,0,0,0,1,10.0,Away,SG Flensburg-Handewitt,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+2,* Simon  Pytlick,2,0,0.0,2,50.0,2,1,0,0,0,0,0.0,Away,SG Flensburg-Handewitt,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+4,* Johannes Golla,2,0,0.0,2,66.67,0,4,0,0,0,0,0.0,Away,SG Flensburg-Handewitt,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+5,* Niclas Kirkeløkke,6,0,0.0,6,100.0,3,1,0,1,0,0,0.0,Away,SG Flensburg-Handewitt,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+20,* Kevin Møller,0,0,0.0,0,0.0,0,0,0,0,0,10,38.46,Away,SG Flensburg-Handewitt,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+22,* Mads  Mensah Larsen,5,0,0.0,5,100.0,1,0,0,0,0,0,0.0,Away,SG Flensburg-Handewitt,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+24,* Jim Gottfridsson,2,0,0.0,2,66.67,3,0,0,0,0,0,0.0,Away,SG Flensburg-Handewitt,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+25,* Lukas Jørgensen,7,0,0.0,7,87.5,3,0,1,1,0,0,0.0,Away,SG Flensburg-Handewitt,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+26,* Johan Hansen,2,0,0.0,2,100.0,0,0,0,0,0,0,0.0,Away,SG Flensburg-Handewitt,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+27,* Aksel Horgen,1,0,0.0,1,50.0,0,0,0,0,0,0,0.0,Away,SG Flensburg-Handewitt,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+29,* August Pedersen,1,0,0.0,1,50.0,0,0,0,0,0,0,0.0,Away,SG Flensburg-Handewitt,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+31,* Emil Jakobsen,6,1,33.33,5,66.67,0,0,0,0,0,0,0.0,Away,SG Flensburg-Handewitt,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+33,* Kay Smits,1,0,0.0,1,25.0,1,0,0,0,0,0,0.0,Away,SG Flensburg-Handewitt,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+43,* Blaž Blagotinšek,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,SG Flensburg-Handewitt,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+64,* Lasse Møller,4,1,100.0,3,80.0,2,0,1,0,0,0,0.0,Away,SG Flensburg-Handewitt,"15.09.2024, 16:30
+Zuschauerzahl: 5874"
+1,* Lasse Ludwig,0,0,0.0,0,0.0,0,0,0,0,0,6,27.27,Home,Füchse Berlin,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+3,* Fabian Wiede,2,0,0.0,2,66.67,0,0,0,0,0,0,0.0,Home,Füchse Berlin,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+5,* Max Darj,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,Füchse Berlin,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+9,* Jerry Tollbring,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,Füchse Berlin,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+11,* Lasse Bredekjaer Andersson,5,0,0.0,5,50.0,12,0,1,0,0,0,0.0,Home,Füchse Berlin,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+17,* Nils Lichtlein,4,0,0.0,4,66.67,2,0,0,0,0,0,0.0,Home,Füchse Berlin,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+19,* Mathias Gidsel,8,0,0.0,8,80.0,5,0,0,0,0,0,0.0,Home,Füchse Berlin,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+20,* Tim Freihöfer,7,3,75.0,4,77.78,0,0,0,0,0,0,0.0,Home,Füchse Berlin,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+25,* Matthes Langhoff,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Home,Füchse Berlin,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+27,* Max Beneke,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,Füchse Berlin,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+29,* Lukas Herburger,1,0,0.0,1,100.0,0,0,0,1,0,0,0.0,Home,Füchse Berlin,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+34,* Hakun West av Teigum,5,0,0.0,5,83.33,0,0,0,0,0,0,0.0,Home,Füchse Berlin,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+36,* Tobias Reichmann,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,Füchse Berlin,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+93,* Mijajlo Marsenic,4,0,0.0,4,80.0,0,1,0,1,0,0,0.0,Home,Füchse Berlin,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+95,* Paul Drux,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,Füchse Berlin,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+96,* Dejan Milosavljev,0,0,0.0,0,0.0,0,0,0,0,0,8,33.33,Home,Füchse Berlin,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+1,* Domenico Ebner,0,0,0.0,0,0.0,0,0,0,0,0,6,23.08,Away,SC DHfK Leipzig,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+4,* Andri Mar Runarsson,4,0,0.0,4,66.67,1,0,0,0,0,0,0.0,Away,SC DHfK Leipzig,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+5,* Simon Ernst,0,0,0.0,0,0.0,1,0,0,0,0,0,0.0,Away,SC DHfK Leipzig,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+7,* Luca Witzke,3,0,0.0,3,42.86,1,0,0,0,0,0,0.0,Away,SC DHfK Leipzig,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+8,* Lucas Krzikalla,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,SC DHfK Leipzig,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+9,* Nils Greilich,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,SC DHfK Leipzig,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+11,* Lukas Binder,6,1,100.0,5,85.71,0,0,0,0,0,0,0.0,Away,SC DHfK Leipzig,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+12,* Kristian Sæverås,0,0,0.0,0,0.0,0,0,0,0,0,5,23.81,Away,SC DHfK Leipzig,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+13,* Matej Klima,5,0,0.0,5,50.0,2,0,0,0,0,0,0.0,Away,SC DHfK Leipzig,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+14,* Marko Mamic,0,0,0.0,0,0.0,0,1,0,0,0,0,0.0,Away,SC DHfK Leipzig,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+18,* Staffan Peter,5,0,0.0,5,83.33,0,0,0,0,0,0,0.0,Away,SC DHfK Leipzig,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+24,* Moritz Preuss,0,0,0.0,0,0.0,0,0,0,1,0,0,0.0,Away,SC DHfK Leipzig,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+29,* Friedrich Schmitt,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,SC DHfK Leipzig,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+32,* Franz Semper,7,0,0.0,7,58.33,6,0,0,0,0,0,0.0,Away,SC DHfK Leipzig,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+33,* Luka Rogan,2,0,0.0,2,100.0,0,0,0,1,0,0,0.0,Away,SC DHfK Leipzig,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+73,* Viggó Kristjánsson,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,SC DHfK Leipzig,"15.09.2024, 18:00
+Zuschauerzahl: 7011"
+1,* Constantin  Möstl,0,0,0.0,0,0.0,0,0,0,0,0,11,44.0,Home,TBV Lemgo Lippe,"19.09.2024, 19:00"
+2,* Lukas Hutecek,2,0,0.0,2,66.67,3,0,0,1,0,0,0.0,Home,TBV Lemgo Lippe,"19.09.2024, 19:00"
+3,* Nicolai Theilinger,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Home,TBV Lemgo Lippe,"19.09.2024, 19:00"
+4,* Samuel Zehnder,6,3,100.0,3,85.71,1,0,0,0,0,0,0.0,Home,TBV Lemgo Lippe,"19.09.2024, 19:00"
+5,* Jan Brosch,0,0,0.0,0,0.0,0,1,0,0,0,0,0.0,Home,TBV Lemgo Lippe,"19.09.2024, 19:00"
+7,* Ben Connar Battermann,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,TBV Lemgo Lippe,"19.09.2024, 19:00"
+8,* Frederik Simak,5,0,0.0,5,55.56,1,0,0,1,0,0,0.0,Home,TBV Lemgo Lippe,"19.09.2024, 19:00"
+14,* Bobby Schagen,2,0,0.0,2,50.0,2,0,2,0,0,0,0.0,Home,TBV Lemgo Lippe,"19.09.2024, 19:00"
+21,* Leve Carstensen,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,TBV Lemgo Lippe,"19.09.2024, 19:00"
+23,* Tim Suton,5,0,0.0,5,62.5,1,0,0,1,0,0,0.0,Home,TBV Lemgo Lippe,"19.09.2024, 19:00"
+25,* Niels Gerardus Versteijnen,5,0,0.0,5,83.33,3,1,0,0,0,0,0.0,Home,TBV Lemgo Lippe,"19.09.2024, 19:00"
+28,* Hendrik Wagner,1,0,0.0,1,50.0,1,0,0,1,0,0,0.0,Home,TBV Lemgo Lippe,"19.09.2024, 19:00"
+37,* Frederik Puls,0,0,0.0,0,0.0,0,0,0,1,0,0,0.0,Home,TBV Lemgo Lippe,"19.09.2024, 19:00"
+40,* Meeno Carstensen,1,0,0.0,1,50.0,0,0,0,0,0,0,0.0,Home,TBV Lemgo Lippe,"19.09.2024, 19:00"
+99,* Urh Kastelic,0,0,0.0,0,0.0,0,0,0,0,0,1,8.33,Home,TBV Lemgo Lippe,"19.09.2024, 19:00"
+5,* Rasmus Meyer Ejlersen,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Away,HSG Wetzlar,"19.09.2024, 19:00"
+7,* Dominik Mappes,1,0,0.0,1,20.0,4,0,0,0,0,0,0.0,Away,HSG Wetzlar,"19.09.2024, 19:00"
+10,* Zolt  Krakovszki,1,0,0.0,1,50.0,1,0,1,1,0,0,0.0,Away,HSG Wetzlar,"19.09.2024, 19:00"
+11,* Till Klimpke,0,0,0.0,0,0.0,1,0,0,0,0,11,28.95,Away,HSG Wetzlar,"19.09.2024, 19:00"
+12,* Anadin Suljakovic,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,HSG Wetzlar,"19.09.2024, 19:00"
+14,* Vladimir Vranjes,1,0,0.0,1,100.0,2,0,0,1,0,0,0.0,Away,HSG Wetzlar,"19.09.2024, 19:00"
+18,* Lukas Becher,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,HSG Wetzlar,"19.09.2024, 19:00"
+19,* Philipp Ahouansou,6,0,0.0,6,60.0,1,0,0,0,0,0,0.0,Away,HSG Wetzlar,"19.09.2024, 19:00"
+22,* Jona Schoch,2,0,0.0,2,50.0,0,0,0,1,0,0,0.0,Away,HSG Wetzlar,"19.09.2024, 19:00"
+25,* Justin Müller,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,HSG Wetzlar,"19.09.2024, 19:00"
+33,* Georg Löwen,3,0,0.0,3,100.0,0,0,0,0,0,0,0.0,Away,HSG Wetzlar,"19.09.2024, 19:00"
+42,* Nemanja Zelenovic,2,0,0.0,2,66.67,2,1,0,0,0,0,0.0,Away,HSG Wetzlar,"19.09.2024, 19:00"
+50,* Lion Zacharias,4,2,100.0,2,100.0,0,0,0,0,0,0,0.0,Away,HSG Wetzlar,"19.09.2024, 19:00"
+75,* Domen Novak,1,0,0.0,1,33.33,0,0,0,0,0,0,0.0,Away,HSG Wetzlar,"19.09.2024, 19:00"
+77,* Stefan Cavor,3,0,0.0,3,60.0,0,0,0,1,0,0,0.0,Away,HSG Wetzlar,"19.09.2024, 19:00"
+1,* Matija Spikic,0,0,0.0,0,0.0,0,0,0,0,0,6,19.35,Home,ThSV Eisenach,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+4,* Filip Vistorop,2,0,0.0,2,40.0,0,0,0,0,0,0,0.0,Home,ThSV Eisenach,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+5,* Timothy Reichmuth,4,0,0.0,4,100.0,0,0,1,0,0,0,0.0,Home,ThSV Eisenach,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+6,* Aleksandar Capric,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,ThSV Eisenach,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+10,* Fynn Hangstein,1,0,0.0,1,25.0,0,0,0,0,0,0,0.0,Home,ThSV Eisenach,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+11,* Gian Attenhofer,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Home,ThSV Eisenach,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+12,* Silvio Heinevetter,0,0,0.0,0,0.0,0,0,0,0,0,3,25.0,Home,ThSV Eisenach,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+14,* Peter Walz,1,0,0.0,1,100.0,0,1,0,0,0,0,0.0,Home,ThSV Eisenach,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+15,* Simone Mengon,1,0,0.0,1,33.33,3,0,0,0,0,0,0.0,Home,ThSV Eisenach,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+17,* Marko Grgic,14,3,100.0,11,73.68,5,0,0,1,0,0,0.0,Home,ThSV Eisenach,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+21,* Moritz Ende,2,0,0.0,2,66.67,0,0,0,1,0,0,0.0,Home,ThSV Eisenach,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+27,* Philipp Meyer,1,0,0.0,1,100.0,0,1,0,1,0,0,0.0,Home,ThSV Eisenach,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+39,* Malte Donker,2,0,0.0,2,50.0,1,0,1,0,0,0,0.0,Home,ThSV Eisenach,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+47,* Dustin Kraus,2,0,0.0,2,66.67,2,1,1,0,0,0,0.0,Home,ThSV Eisenach,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+52,* Justin Kurch,1,0,0.0,1,50.0,0,0,0,0,0,0,0.0,Home,ThSV Eisenach,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+95,* Alexander Saul,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,ThSV Eisenach,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+3,* Nikola Vlahovic,5,0,0.0,5,100.0,0,0,0,0,0,0,0.0,Away,SG BBM Bietigheim,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+5,* Julius Kühn,6,0,0.0,6,75.0,2,1,0,0,0,0,0.0,Away,SG BBM Bietigheim,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+7,* Dominik Claus,3,0,0.0,3,60.0,3,0,0,1,0,0,0.0,Away,SG BBM Bietigheim,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+10,* Tom Wolf,0,0,0.0,0,0.0,0,0,0,1,0,0,0.0,Away,SG BBM Bietigheim,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+13,* Juan de la Peña,7,0,0.0,7,77.78,4,0,0,0,0,0,0.0,Away,SG BBM Bietigheim,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+14,* Fynn-Luca Nicolaus,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,SG BBM Bietigheim,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+16,* Fredrik Genz,0,0,0.0,0,0.0,1,0,0,0,0,14,31.82,Away,SG BBM Bietigheim,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+18,* Fabian Wiederstein,1,0,0.0,1,50.0,0,0,0,0,0,0,0.0,Away,SG BBM Bietigheim,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+19,* Gonzalo Perez Arce,1,0,0.0,1,33.33,0,0,0,0,0,0,0.0,Away,SG BBM Bietigheim,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+20,* Paco Barthe,0,0,0.0,0,0.0,0,0,1,1,0,0,0.0,Away,SG BBM Bietigheim,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+29,* Moritz Strosack,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,SG BBM Bietigheim,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+31,* Alexander Pfeifer,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,SG BBM Bietigheim,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+36,* Jonathan Fischer,3,0,0.0,3,100.0,2,0,0,0,0,0,0.0,Away,SG BBM Bietigheim,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+41,* Till Hermann,7,0,0.0,7,77.78,0,0,0,0,0,0,0.0,Away,SG BBM Bietigheim,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+64,* Maximilian Hejny,2,0,0.0,2,100.0,0,0,0,0,0,0,0.0,Away,SG BBM Bietigheim,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+94,* Daniel Rebmann,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,SG BBM Bietigheim,"19.09.2024, 19:00
+Zuschauerzahl: 2670"
+4,* Stephan Seitz,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,HC Erlangen,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+6,* Marek Nissen,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,HC Erlangen,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+8,* Sander Andreassen Øverjordet,4,0,0.0,4,66.67,0,0,0,0,0,0,0.0,Home,HC Erlangen,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+10,* Florian Scheerer,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Home,HC Erlangen,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+20,* Nico Büdel,1,0,0.0,1,33.33,3,0,0,0,0,0,0.0,Home,HC Erlangen,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+21,* Christopher Bissel,5,0,0.0,5,83.33,1,0,0,0,0,0,0.0,Home,HC Erlangen,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+22,* Klemen Ferlin,0,0,0.0,0,0.0,2,0,0,0,0,9,36.0,Home,HC Erlangen,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+27,* Antonio Metzner,4,0,0.0,4,100.0,1,0,1,0,0,0,0.0,Home,HC Erlangen,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+28,* Jonathan Svensson,1,0,0.0,1,25.0,3,1,0,0,0,0,0.0,Home,HC Erlangen,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+33,* Nikolai Link,0,0,0.0,0,0.0,0,2,0,1,0,0,0.0,Home,HC Erlangen,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+44,* Christoph Steinert,2,0,0.0,2,100.0,1,0,0,0,0,0,0.0,Home,HC Erlangen,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+55,* Tobias Wagner,1,0,0.0,1,50.0,0,0,0,0,0,0,0.0,Home,HC Erlangen,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+67,* Hampus Olsson,3,0,0.0,3,75.0,0,0,0,0,0,0,0.0,Home,HC Erlangen,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+95,* Tim Gömmel,2,2,66.67,0,66.67,0,0,0,0,0,0,0.0,Home,HC Erlangen,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+96,* Khalifa Ghedbane,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,HC Erlangen,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+99,* Stefan Bauer,1,0,0.0,1,50.0,0,2,0,0,0,0,0.0,Home,HC Erlangen,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+1,* Luca Krivokapic,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,TVB Stuttgart,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+2,* Nico Bacani,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,TVB Stuttgart,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+5,* Jorge Serrano Villalobos,2,0,0.0,2,100.0,0,0,0,0,0,0,0.0,Away,TVB Stuttgart,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+6,* Daniel Fernandez Jimenez,4,0,0.0,4,80.0,0,0,2,0,0,0,0.0,Away,TVB Stuttgart,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+8,* Nico Schöttle,2,0,0.0,2,50.0,1,0,0,0,0,0,0.0,Away,TVB Stuttgart,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+9,* Gianfranco Pribetic,6,0,0.0,6,100.0,0,1,0,1,0,0,0.0,Away,TVB Stuttgart,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+11,* Bruno Reguart Massana,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,TVB Stuttgart,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+13,* Achilleas Toskas,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,TVB Stuttgart,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+14,* Ante Ivankovic,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,TVB Stuttgart,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+16,* Miljan Vujovic,0,0,0.0,0,0.0,1,0,0,0,0,11,32.35,Away,TVB Stuttgart,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+17,* Samuel Röthlisberger,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,TVB Stuttgart,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+20,* Luca Tschentscher,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,TVB Stuttgart,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+24,* Lukas Laube,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,TVB Stuttgart,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+25,* Patrick Zieker,4,0,0.0,4,66.67,1,0,0,1,0,0,0.0,Away,TVB Stuttgart,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+34,* Kai Häfner,5,0,0.0,5,55.56,8,0,0,0,0,0,0.0,Away,TVB Stuttgart,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+44,* Lenny Rubin,3,0,0.0,3,100.0,1,1,1,2,0,0,0.0,Away,TVB Stuttgart,"20.09.2024, 19:00
+Zuschauerzahl: 4687"
+2,* Emil Hansson,2,0,0.0,2,100.0,0,0,0,2,0,0,0.0,Home,1. VfL Potsdam,"20.09.2024, 20:00"
+5,* Josip Simic,3,0,0.0,3,75.0,1,1,0,0,0,0,0.0,Home,1. VfL Potsdam,"20.09.2024, 20:00"
+6,* Marvin Siemer,8,5,100.0,3,88.89,0,0,0,0,0,0,0.0,Home,1. VfL Potsdam,"20.09.2024, 20:00"
+7,* Nicolas Paulnsteiner,3,0,0.0,3,50.0,0,0,0,0,0,0,0.0,Home,1. VfL Potsdam,"20.09.2024, 20:00"
+10,* Elias Kofler,1,0,0.0,1,100.0,6,0,0,0,0,0,0.0,Home,1. VfL Potsdam,"20.09.2024, 20:00"
+12,* Martin Tomovski,0,0,0.0,0,0.0,0,0,0,0,0,3,16.67,Home,1. VfL Potsdam,"20.09.2024, 20:00"
+13,* Ole Schramm,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,1. VfL Potsdam,"20.09.2024, 20:00"
+14,* Max Günther,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,1. VfL Potsdam,"20.09.2024, 20:00"
+17,* Jannek Klein,5,0,0.0,5,83.33,1,0,0,2,0,0,0.0,Home,1. VfL Potsdam,"20.09.2024, 20:00"
+19,* David Cyrill Akakpo,2,0,0.0,2,100.0,1,0,1,2,0,0,0.0,Home,1. VfL Potsdam,"20.09.2024, 20:00"
+22,* Maxim Orlov,2,0,0.0,2,50.0,0,0,0,0,0,0,0.0,Home,1. VfL Potsdam,"20.09.2024, 20:00"
+23,* Sergey Gorpishin,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,1. VfL Potsdam,"20.09.2024, 20:00"
+27,* Nils Fuhrmann,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,1. VfL Potsdam,"20.09.2024, 20:00"
+28,* Marvin Kix,2,0,0.0,2,66.67,3,0,0,0,0,0,0.0,Home,1. VfL Potsdam,"20.09.2024, 20:00"
+35,* Nicholas Schley,2,0,0.0,2,100.0,1,0,0,0,0,0,0.0,Home,1. VfL Potsdam,"20.09.2024, 20:00"
+77,* Mark Ferjan,0,0,0.0,0,0.0,0,0,0,0,0,4,21.05,Home,1. VfL Potsdam,"20.09.2024, 20:00"
+1,* Johannes Bitter,0,0,0.0,0,0.0,0,0,0,0,0,2,15.38,Away,Handball Sport Verein Hamburg,"20.09.2024, 20:00"
+4,* Andreas Magaard,3,0,0.0,3,100.0,0,0,0,0,0,0,0.0,Away,Handball Sport Verein Hamburg,"20.09.2024, 20:00"
+7,* Leif Tissier,3,0,0.0,3,60.0,9,0,0,0,0,0,0.0,Away,Handball Sport Verein Hamburg,"20.09.2024, 20:00"
+9,* Jacob Arenth Lassen,5,0,0.0,5,100.0,4,0,0,1,0,0,0.0,Away,Handball Sport Verein Hamburg,"20.09.2024, 20:00"
+13,* Niklas Weller,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Away,Handball Sport Verein Hamburg,"20.09.2024, 20:00"
+15,* Dominik Axmann,1,0,0.0,1,100.0,0,0,1,1,0,0,0.0,Away,Handball Sport Verein Hamburg,"20.09.2024, 20:00"
+16,* Robin Paulsen Haug,0,0,0.0,0,0.0,0,0,0,0,0,4,20.0,Away,Handball Sport Verein Hamburg,"20.09.2024, 20:00"
+21,* Frederik Bo Andersen,7,0,0.0,7,100.0,0,0,0,0,0,0,0.0,Away,Handball Sport Verein Hamburg,"20.09.2024, 20:00"
+24,* Alexander Hartwig,2,0,0.0,2,66.67,0,0,0,0,0,0,0.0,Away,Handball Sport Verein Hamburg,"20.09.2024, 20:00"
+31,* Levin Unbehaun,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,Handball Sport Verein Hamburg,"20.09.2024, 20:00"
+33,* Moritz Sauter,4,0,0.0,4,66.67,1,0,0,2,0,0,0.0,Away,Handball Sport Verein Hamburg,"20.09.2024, 20:00"
+51,* Casper Mortensen,4,3,75.0,1,57.14,0,0,0,0,0,0,0.0,Away,Handball Sport Verein Hamburg,"20.09.2024, 20:00"
+55,* Azat Valiullin,1,0,0.0,1,100.0,0,1,0,0,0,0,0.0,Away,Handball Sport Verein Hamburg,"20.09.2024, 20:00"
+1,* Mikael  Appelgren,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,Rhein-Neckar Löwen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+5,* Ivan Martinovic,7,4,100.0,3,58.33,3,0,1,0,0,0,0.0,Home,Rhein-Neckar Löwen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+8,* Tim Nothdurft,2,0,0.0,2,100.0,0,0,0,0,0,0,0.0,Home,Rhein-Neckar Löwen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+9,* Steven Plucnar Jacobsen,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,Rhein-Neckar Löwen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+10,* Juri Knorr,5,0,0.0,5,55.56,2,0,0,0,0,0,0.0,Home,Rhein-Neckar Löwen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+11,* Arnór Snær Óskarsson,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,Rhein-Neckar Löwen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+13,* Sebastian Heymann,4,0,0.0,4,80.0,2,1,1,0,0,0,0.0,Home,Rhein-Neckar Löwen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+15,* David Móré,2,0,0.0,2,100.0,1,0,0,0,0,0,0.0,Home,Rhein-Neckar Löwen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+22,* Gustav Davidsson,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,Rhein-Neckar Löwen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+24,* Patrick Groetzki,0,0,0.0,0,0.0,1,0,0,1,0,0,0.0,Home,Rhein-Neckar Löwen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+25,* Olle Forsell Schefvert,1,0,0.0,1,50.0,2,0,0,0,0,0,0.0,Home,Rhein-Neckar Löwen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+29,* David Späth,2,0,0.0,2,100.0,1,0,0,0,0,15,36.59,Home,Rhein-Neckar Löwen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+42,* Jon Lindenchrone Andersen,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,Rhein-Neckar Löwen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+80,* Jannik Kohlbacher,8,0,0.0,8,80.0,1,0,0,0,0,0,0.0,Home,Rhein-Neckar Löwen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+1,* Adam Morawski,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,MT Melsungen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+4,* Nikolaj Enderleit,1,0,0.0,1,50.0,0,0,0,0,0,0,0.0,Away,MT Melsungen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+6,* Erik Balenciaga,0,0,0.0,0,0.0,4,0,0,0,0,0,0.0,Away,MT Melsungen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+7,* David Mandic,3,0,0.0,3,75.0,0,0,0,0,0,0,0.0,Away,MT Melsungen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+8,* Adrian Sipos,1,0,0.0,1,100.0,0,2,0,0,0,0,0.0,Away,MT Melsungen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+10,* Dainis Kristopans,4,0,0.0,4,57.14,2,0,0,1,0,0,0.0,Away,MT Melsungen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+11,* Dimitri Ignatow,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,MT Melsungen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+13,* Rogerio  Moraes Ferreira,3,0,0.0,3,75.0,0,0,0,0,0,0,0.0,Away,MT Melsungen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+16,* Nebojsa Simic,0,0,0.0,0,0.0,1,0,1,0,0,12,31.58,Away,MT Melsungen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+19,* Elvar Örn Jonsson,3,0,0.0,3,42.86,2,2,1,0,0,0,0.0,Away,MT Melsungen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+21,* Arnar Freyr Arnarsson,1,0,0.0,1,50.0,0,0,0,0,0,0,0.0,Away,MT Melsungen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+24,* Alexandre Cavalcanti,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,MT Melsungen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+33,* Aaron  Mensing,4,0,0.0,4,44.44,3,0,0,1,0,0,0.0,Away,MT Melsungen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+71,* Mohamed Amine Darmoul,0,0,0.0,0,0.0,0,0,0,1,0,0,0.0,Away,MT Melsungen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+73,* Timo Kastening,6,2,100.0,4,100.0,0,0,0,0,0,0,0.0,Away,MT Melsungen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+83,* Ian Barrufet,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,MT Melsungen,"21.09.2024, 19:00
+Zuschauerzahl: 6560"
+1,* Benjamin Burić,0,0,0.0,0,0.0,0,0,0,0,0,7,31.82,Home,SG Flensburg-Handewitt,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+2,* Simon  Pytlick,7,0,0.0,7,70.0,2,0,0,1,0,0,0.0,Home,SG Flensburg-Handewitt,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+4,* Johannes Golla,2,0,0.0,2,100.0,0,1,0,0,0,0,0.0,Home,SG Flensburg-Handewitt,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+5,* Niclas Kirkeløkke,1,0,0.0,1,50.0,3,0,0,0,0,0,0.0,Home,SG Flensburg-Handewitt,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+19,* Oskar Czertowicz,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,SG Flensburg-Handewitt,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+20,* Kevin Møller,0,0,0.0,0,0.0,0,0,0,0,0,5,22.73,Home,SG Flensburg-Handewitt,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+22,* Mads  Mensah Larsen,2,0,0.0,2,100.0,0,0,0,0,0,0,0.0,Home,SG Flensburg-Handewitt,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+24,* Jim Gottfridsson,2,0,0.0,2,66.67,8,0,0,0,0,0,0.0,Home,SG Flensburg-Handewitt,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+25,* Lukas Jørgensen,3,0,0.0,3,100.0,1,1,1,0,0,0,0.0,Home,SG Flensburg-Handewitt,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+26,* Johan Hansen,5,0,0.0,5,83.33,0,0,0,0,0,0,0.0,Home,SG Flensburg-Handewitt,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+27,* Aksel Horgen,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,SG Flensburg-Handewitt,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+29,* August Pedersen,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Home,SG Flensburg-Handewitt,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+31,* Emil Jakobsen,10,3,100.0,7,100.0,0,0,0,0,0,0,0.0,Home,SG Flensburg-Handewitt,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+33,* Kay Smits,4,2,100.0,2,57.14,2,0,0,0,0,0,0.0,Home,SG Flensburg-Handewitt,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+43,* Blaž Blagotinšek,0,0,0.0,0,0.0,0,0,0,1,0,0,0.0,Home,SG Flensburg-Handewitt,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+64,* Lasse Møller,0,0,0.0,0,0.0,3,0,0,0,0,0,0.0,Home,SG Flensburg-Handewitt,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+2,* Oskar Neudeck,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,FRISCH AUF! Göppingen,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+5,* Rutger ten Velde,1,0,0.0,1,33.33,0,0,0,0,0,0,0.0,Away,FRISCH AUF! Göppingen,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+7,* Victor Klöve,2,0,0.0,2,40.0,1,0,0,0,0,0,0.0,Away,FRISCH AUF! Göppingen,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+9,* Andreas Flodman,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Away,FRISCH AUF! Göppingen,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+12,* Julian Buchele,0,0,0.0,0,0.0,0,0,0,0,0,4,16.67,Away,FRISCH AUF! Göppingen,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+13,* Josip Sarac,4,0,0.0,4,80.0,2,0,2,1,0,0,0.0,Away,FRISCH AUF! Göppingen,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+16,* Tibor Ivanisevic,0,0,0.0,0,0.0,0,0,0,0,0,2,10.53,Away,FRISCH AUF! Göppingen,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+20,* Ludvig Hallbäck,10,0,0.0,10,76.92,0,0,1,0,0,0,0.0,Away,FRISCH AUF! Göppingen,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+22,* Erik Persson,5,0,0.0,5,83.33,0,0,0,1,0,0,0.0,Away,FRISCH AUF! Göppingen,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+24,* Marcel Schiller,3,1,100.0,2,60.0,0,0,0,0,0,0,0.0,Away,FRISCH AUF! Göppingen,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+25,* Ludvig Jurmala Aström,0,0,0.0,0,0.0,0,0,0,1,0,0,0.0,Away,FRISCH AUF! Göppingen,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+27,* Oskar Sunnefeldt,3,0,0.0,3,50.0,2,0,1,1,0,0,0.0,Away,FRISCH AUF! Göppingen,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+28,* Franko Lastro,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,FRISCH AUF! Göppingen,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+33,* Ymir Örn Gislason,2,0,0.0,2,100.0,1,0,0,0,0,0,0.0,Away,FRISCH AUF! Göppingen,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+40,* Elias Newel,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,FRISCH AUF! Göppingen,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+77,* David Schmidt,1,0,0.0,1,33.33,0,0,0,1,0,0,0.0,Away,FRISCH AUF! Göppingen,"21.09.2024, 20:30
+Zuschauerzahl: 6004"
+4,* Adam Nyfjäll,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,TSV Hannover-Burgdorf,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+9,* Vilhelm Poulsen,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Home,TSV Hannover-Burgdorf,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+10,* Renars Uscins,11,0,0.0,11,68.75,5,0,0,0,0,0,0.0,Home,TSV Hannover-Burgdorf,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+16,* Simon Gade,0,0,0.0,0,0.0,0,0,0,0,0,6,26.09,Home,TSV Hannover-Burgdorf,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+19,* Marius Steinhauser,5,1,100.0,4,62.5,1,0,1,0,0,0,0.0,Home,TSV Hannover-Burgdorf,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+22,* Marian Michalczik,2,0,0.0,2,100.0,4,0,0,0,0,0,0.0,Home,TSV Hannover-Burgdorf,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+23,* Uladzislau Kulesh,2,0,0.0,2,66.67,3,0,1,1,0,0,0.0,Home,TSV Hannover-Burgdorf,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+26,* Jonathan Edvardsson,2,0,0.0,2,66.67,0,0,0,0,0,0,0.0,Home,TSV Hannover-Burgdorf,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+28,* Maximilian  Gerbl,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,TSV Hannover-Burgdorf,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+35,* Joel Birlehm,0,0,0.0,0,0.0,0,0,0,0,0,4,19.05,Home,TSV Hannover-Burgdorf,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+39,* Lukas Stutzke,0,0,0.0,0,0.0,0,0,0,1,0,0,0.0,Home,TSV Hannover-Burgdorf,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+42,* Martin Hanne,4,0,0.0,4,80.0,0,0,0,0,0,0,0.0,Home,TSV Hannover-Burgdorf,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+44,* Thomas Alfred Solstad,1,0,0.0,1,100.0,0,0,0,1,0,0,0.0,Home,TSV Hannover-Burgdorf,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+54,* Justus Fischer,7,0,0.0,7,100.0,0,0,1,1,0,0,0.0,Home,TSV Hannover-Burgdorf,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+56,* Hannes Feise,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,TSV Hannover-Burgdorf,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+74,* Vincent Büchner,3,0,0.0,3,100.0,2,0,2,0,0,0,0.0,Home,TSV Hannover-Burgdorf,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+1,* Lasse Ludwig,0,0,0.0,0,0.0,0,0,0,0,0,4,19.05,Away,Füchse Berlin,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+3,* Fabian Wiede,1,0,0.0,1,50.0,3,0,1,0,0,0,0.0,Away,Füchse Berlin,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+5,* Max Darj,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,Füchse Berlin,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+9,* Jerry Tollbring,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,Füchse Berlin,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+11,* Lasse Bredekjaer Andersson,9,0,0.0,9,60.0,4,0,0,1,0,0,0.0,Away,Füchse Berlin,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+17,* Nils Lichtlein,1,0,0.0,1,20.0,2,0,0,0,0,0,0.0,Away,Füchse Berlin,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+19,* Mathias Gidsel,9,0,0.0,9,100.0,1,0,0,0,0,0,0.0,Away,Füchse Berlin,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+20,* Tim Freihöfer,9,1,50.0,8,81.82,0,0,0,0,0,0,0.0,Away,Füchse Berlin,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+25,* Matthes Langhoff,0,0,0.0,0,0.0,0,0,0,2,0,0,0.0,Away,Füchse Berlin,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+27,* Max Beneke,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,Füchse Berlin,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+29,* Lukas Herburger,0,0,0.0,0,0.0,0,0,0,1,0,0,0.0,Away,Füchse Berlin,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+34,* Hakun West av Teigum,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,Füchse Berlin,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+36,* Tobias Reichmann,4,1,50.0,3,80.0,1,0,0,0,0,0,0.0,Away,Füchse Berlin,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+93,* Mijajlo Marsenic,2,0,0.0,2,100.0,0,0,0,1,0,0,0.0,Away,Füchse Berlin,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+95,* Paul Drux,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,Füchse Berlin,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+96,* Dejan Milosavljev,0,0,0.0,0,0.0,0,0,0,0,0,6,23.08,Away,Füchse Berlin,"22.09.2024, 15:00
+Zuschauerzahl: 8709"
+4,* Andri Mar Runarsson,3,1,100.0,2,75.0,3,0,0,0,0,0,0.0,Home,SC DHfK Leipzig,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+5,* Simon Ernst,0,0,0.0,0,0.0,1,0,0,0,0,0,0.0,Home,SC DHfK Leipzig,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+7,* Luca Witzke,9,0,0.0,9,100.0,5,0,0,0,0,0,0.0,Home,SC DHfK Leipzig,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+8,* Lucas Krzikalla,0,0,0.0,0,0.0,0,0,1,0,0,0,0.0,Home,SC DHfK Leipzig,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+9,* Nils Greilich,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,SC DHfK Leipzig,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+11,* Lukas Binder,8,2,100.0,6,88.89,0,0,3,0,0,0,0.0,Home,SC DHfK Leipzig,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+12,* Kristian Sæverås,1,0,0.0,1,100.0,0,0,0,0,0,14,35.0,Home,SC DHfK Leipzig,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+13,* Matej Klima,2,0,0.0,2,50.0,4,0,0,1,0,0,0.0,Home,SC DHfK Leipzig,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+14,* Marko Mamic,1,0,0.0,1,100.0,0,0,0,1,0,0,0.0,Home,SC DHfK Leipzig,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+16,* Leopold Huber,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,SC DHfK Leipzig,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+18,* Staffan Peter,0,0,0.0,0,0.0,0,1,0,0,0,0,0.0,Home,SC DHfK Leipzig,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+24,* Moritz Preuss,1,0,0.0,1,100.0,0,1,0,2,0,0,0.0,Home,SC DHfK Leipzig,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+29,* Friedrich Schmitt,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,SC DHfK Leipzig,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+32,* Franz Semper,9,0,0.0,9,64.29,0,0,0,1,0,0,0.0,Home,SC DHfK Leipzig,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+33,* Luka Rogan,0,0,0.0,0,0.0,0,0,0,1,0,0,0.0,Home,SC DHfK Leipzig,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+1,* Dominik Kuzmanović,0,0,0.0,0,0.0,0,0,0,0,0,10,31.25,Away,VfL Gummersbach,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+4,* Ellidi Snaer Vidarsson,5,0,0.0,5,71.43,0,0,0,0,0,0,0.0,Away,VfL Gummersbach,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+5,* Tilen Kodrin,0,0,0.0,0,0.0,1,0,0,1,0,0,0.0,Away,VfL Gummersbach,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+6,* Milos Vujovic,7,6,100.0,1,100.0,0,0,0,0,0,0,0.0,Away,VfL Gummersbach,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+7,* Julian Köster,4,0,0.0,4,66.67,4,2,0,0,0,0,0.0,Away,VfL Gummersbach,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+8,* Lukas Blohme,6,0,0.0,6,85.71,0,0,0,1,0,0,0.0,Away,VfL Gummersbach,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+11,* Mathis Häseler,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,VfL Gummersbach,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+14,* Teitur Örn Einarsson,0,0,0.0,0,0.0,1,0,0,0,0,0,0.0,Away,VfL Gummersbach,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+15,* Miro Schluroff,0,0,0.0,0,0.0,1,0,0,0,0,0,0.0,Away,VfL Gummersbach,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+16,* Bertram Obling,0,0,0.0,0,0.0,0,0,0,0,0,1,8.33,Away,VfL Gummersbach,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+19,* Giorgi Tskhovrebadze,1,0,0.0,1,25.0,0,0,0,0,0,0,0.0,Away,VfL Gummersbach,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+22,* Kentin Mahé,3,0,0.0,3,60.0,2,0,1,1,0,0,0.0,Away,VfL Gummersbach,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+23,* Ole Pregler,1,0,0.0,1,33.33,1,0,0,0,0,0,0.0,Away,VfL Gummersbach,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+27,* Kristjan Horzen,1,0,0.0,1,50.0,3,1,0,0,0,0,0.0,Away,VfL Gummersbach,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+66,* Stepan Zeman,1,0,0.0,1,100.0,0,2,0,2,0,0,0.0,Away,VfL Gummersbach,"22.09.2024, 16:30
+Zuschauerzahl: 4321"
+1,* Sergey Hernández Ferrer,0,0,0.0,0,0.0,0,0,0,0,0,2,13.33,Home,SC Magdeburg,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+3,* Isak Persson,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,SC Magdeburg,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+6,* Matthias Musche,8,2,100.0,6,88.89,0,0,0,0,0,0,0.0,Home,SC Magdeburg,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+8,* Manuel Zehnder,2,1,50.0,1,33.33,1,0,0,0,0,0,0.0,Home,SC Magdeburg,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+9,* Tim Zechel,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,SC Magdeburg,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+10,* Gisli Thorgeir Kristjansson,3,0,0.0,3,50.0,6,0,0,0,0,0,0.0,Home,SC Magdeburg,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+11,* Daniel Pettersson,4,0,0.0,4,66.67,0,0,0,0,0,0,0.0,Home,SC Magdeburg,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+14,* Omar Ingi Magnusson,3,3,60.0,0,42.86,3,0,1,0,0,0,0.0,Home,SC Magdeburg,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+15,* Antonio Serradilla Cuenca,0,0,0.0,0,0.0,0,0,0,1,0,0,0.0,Home,SC Magdeburg,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+17,* Tim Hornke,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,SC Magdeburg,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+20,* Philipp Weber,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,SC Magdeburg,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+21,* Albin Lagergren,2,0,0.0,2,66.67,0,0,0,0,0,0,0.0,Home,SC Magdeburg,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+22,* Lukas Mertens,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,SC Magdeburg,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+23,* Magnus Saugstrup,1,0,0.0,1,50.0,0,0,0,0,0,0,0.0,Home,SC Magdeburg,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+24,* Christian O'Sullivan,1,0,0.0,1,50.0,1,0,0,0,0,0,0.0,Home,SC Magdeburg,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+34,* Michael Damgaard,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,SC Magdeburg,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+54,* Oscar Bergendahl,0,0,0.0,0,0.0,0,0,0,1,0,0,0.0,Home,SC Magdeburg,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+80,* Nikola Portner,0,0,0.0,0,0.0,0,0,0,0,0,13,44.83,Home,SC Magdeburg,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+4,* Domagoj Duvnjak,1,0,0.0,1,20.0,4,0,0,0,0,0,0.0,Away,THW Kiel,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+6,* Harald Reinkind,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,THW Kiel,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+7,* Magnus Landin Jacobsen,2,0,0.0,2,66.67,1,0,0,0,0,0,0.0,Away,THW Kiel,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+11,* Petter Øverby,3,0,0.0,3,75.0,0,0,0,0,0,0,0.0,Away,THW Kiel,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+12,* Leon Nowottny,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,THW Kiel,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+16,* Tomas Mrkva,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,THW Kiel,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+17,* Patrick Wiencek,0,0,0.0,0,0.0,0,0,0,1,0,0,0.0,Away,THW Kiel,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+19,* Henri Pabst,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,THW Kiel,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+21,* Eric Johansson,4,0,0.0,4,57.14,6,0,0,0,0,0,0.0,Away,THW Kiel,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+23,* Rune Dahmke,2,0,0.0,2,66.67,0,0,0,0,0,0,0.0,Away,THW Kiel,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+24,* Lukas Zerbe,4,0,0.0,4,80.0,0,0,0,1,0,0,0.0,Away,THW Kiel,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+25,* Linus Kutz,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,THW Kiel,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+33,* Andreas Wolff,0,0,0.0,0,0.0,0,0,0,0,0,14,37.84,Away,THW Kiel,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+34,* Samir Bellahcene,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,THW Kiel,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+45,* Emil Wernsdorf  Madsen,9,0,0.0,9,69.23,3,0,0,0,0,0,0.0,Away,THW Kiel,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+49,* Karl Erik Edvin Wallinius,0,0,0.0,0,0.0,1,0,0,0,0,0,0.0,Away,THW Kiel,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+53,* Nikola Bilyk,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,THW Kiel,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+61,* Hendrik Pekeler,4,0,0.0,4,100.0,1,0,0,0,0,0,0.0,Away,THW Kiel,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+71,* Elias Ellefsen á Skipagøtu,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,THW Kiel,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+91,* Bence Imre,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,THW Kiel,"22.09.2024, 18:00
+Zuschauerzahl: 6600"
+1,* Luca Krivokapic,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,TVB Stuttgart,"25.09.2024, 19:00"
+2,* Nico Bacani,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,TVB Stuttgart,"25.09.2024, 19:00"
+5,* Jorge Serrano Villalobos,1,0,0.0,1,25.0,0,0,0,1,0,0,0.0,Home,TVB Stuttgart,"25.09.2024, 19:00"
+6,* Daniel Fernandez Jimenez,3,0,0.0,3,60.0,0,0,0,1,1,0,0.0,Home,TVB Stuttgart,"25.09.2024, 19:00"
+8,* Nico Schöttle,7,0,0.0,7,77.78,2,1,0,0,0,0,0.0,Home,TVB Stuttgart,"25.09.2024, 19:00"
+9,* Gianfranco Pribetic,5,0,0.0,5,71.43,0,0,0,0,0,0,0.0,Home,TVB Stuttgart,"25.09.2024, 19:00"
+11,* Bruno Reguart Massana,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,TVB Stuttgart,"25.09.2024, 19:00"
+13,* Achilleas Toskas,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,TVB Stuttgart,"25.09.2024, 19:00"
+14,* Ante Ivankovic,1,0,0.0,1,33.33,0,0,0,0,0,0,0.0,Home,TVB Stuttgart,"25.09.2024, 19:00"
+16,* Miljan Vujovic,0,0,0.0,0,0.0,0,0,0,0,0,5,17.86,Home,TVB Stuttgart,"25.09.2024, 19:00"
+17,* Samuel Röthlisberger,2,0,0.0,2,100.0,0,0,0,1,0,0,0.0,Home,TVB Stuttgart,"25.09.2024, 19:00"
+24,* Lukas Laube,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Home,TVB Stuttgart,"25.09.2024, 19:00"
+25,* Patrick Zieker,0,0,0.0,0,0.0,1,0,1,1,0,0,0.0,Home,TVB Stuttgart,"25.09.2024, 19:00"
+34,* Kai Häfner,6,0,0.0,6,50.0,8,0,0,0,0,0,0.0,Home,TVB Stuttgart,"25.09.2024, 19:00"
+44,* Lenny Rubin,2,0,0.0,2,66.67,1,0,0,1,0,0,0.0,Home,TVB Stuttgart,"25.09.2024, 19:00"
+1,* Dominik Kuzmanović,0,0,0.0,0,0.0,3,0,0,0,0,10,26.32,Away,VfL Gummersbach,"25.09.2024, 19:00"
+4,* Ellidi Snaer Vidarsson,6,0,0.0,6,85.71,1,2,0,0,0,0,0.0,Away,VfL Gummersbach,"25.09.2024, 19:00"
+5,* Tilen Kodrin,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Away,VfL Gummersbach,"25.09.2024, 19:00"
+6,* Milos Vujovic,7,1,50.0,6,70.0,0,0,1,0,0,0,0.0,Away,VfL Gummersbach,"25.09.2024, 19:00"
+8,* Lukas Blohme,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,VfL Gummersbach,"25.09.2024, 19:00"
+11,* Mathis Häseler,4,0,0.0,4,100.0,0,0,0,0,0,0,0.0,Away,VfL Gummersbach,"25.09.2024, 19:00"
+15,* Miro Schluroff,3,0,0.0,3,75.0,2,2,1,0,0,0,0.0,Away,VfL Gummersbach,"25.09.2024, 19:00"
+16,* Bertram Obling,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,VfL Gummersbach,"25.09.2024, 19:00"
+19,* Giorgi Tskhovrebadze,1,0,0.0,1,50.0,1,0,0,0,0,0,0.0,Away,VfL Gummersbach,"25.09.2024, 19:00"
+22,* Kentin Mahé,7,0,0.0,7,58.33,2,0,0,0,0,0,0.0,Away,VfL Gummersbach,"25.09.2024, 19:00"
+23,* Ole Pregler,4,0,0.0,4,100.0,3,0,0,0,0,0,0.0,Away,VfL Gummersbach,"25.09.2024, 19:00"
+27,* Kristjan Horzen,2,0,0.0,2,100.0,0,0,0,0,0,0,0.0,Away,VfL Gummersbach,"25.09.2024, 19:00"
+32,* Mykola Protsiuk,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,VfL Gummersbach,"25.09.2024, 19:00"
+66,* Stepan Zeman,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,VfL Gummersbach,"25.09.2024, 19:00"
+1,* Domenico Ebner,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,SC DHfK Leipzig,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+4,* Andri Mar Runarsson,3,0,0.0,3,60.0,1,0,0,0,0,0,0.0,Home,SC DHfK Leipzig,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+5,* Simon Ernst,1,0,0.0,1,50.0,0,0,0,0,0,0,0.0,Home,SC DHfK Leipzig,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+7,* Luca Witzke,6,0,0.0,6,85.71,3,0,0,1,0,0,0.0,Home,SC DHfK Leipzig,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+8,* Lucas Krzikalla,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,SC DHfK Leipzig,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+9,* Nils Greilich,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,SC DHfK Leipzig,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+11,* Lukas Binder,2,0,0.0,2,40.0,0,0,1,0,0,0,0.0,Home,SC DHfK Leipzig,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+12,* Kristian Sæverås,0,0,0.0,0,0.0,1,0,0,0,0,16,39.02,Home,SC DHfK Leipzig,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+13,* Matej Klima,2,0,0.0,2,25.0,2,1,0,0,0,0,0.0,Home,SC DHfK Leipzig,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+14,* Marko Mamic,0,0,0.0,0,0.0,0,0,1,0,0,0,0.0,Home,SC DHfK Leipzig,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+18,* Staffan Peter,7,0,0.0,7,70.0,1,0,1,0,0,0,0.0,Home,SC DHfK Leipzig,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+24,* Moritz Preuss,2,0,0.0,2,66.67,0,0,0,1,0,0,0.0,Home,SC DHfK Leipzig,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+29,* Friedrich Schmitt,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,SC DHfK Leipzig,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+32,* Franz Semper,5,0,0.0,5,55.56,4,0,0,0,0,0,0.0,Home,SC DHfK Leipzig,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+33,* Luka Rogan,0,0,0.0,0,0.0,0,0,0,1,1,0,0.0,Home,SC DHfK Leipzig,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+1,* Mikael  Appelgren,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,Rhein-Neckar Löwen,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+5,* Ivan Martinovic,9,4,66.67,5,56.25,3,0,1,0,0,0,0.0,Away,Rhein-Neckar Löwen,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+8,* Tim Nothdurft,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Away,Rhein-Neckar Löwen,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+9,* Steven Plucnar Jacobsen,6,0,0.0,6,75.0,0,0,0,1,0,0,0.0,Away,Rhein-Neckar Löwen,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+10,* Juri Knorr,1,0,0.0,1,25.0,4,0,0,1,0,0,0.0,Away,Rhein-Neckar Löwen,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+11,* Arnór Snær Óskarsson,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,Rhein-Neckar Löwen,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+13,* Sebastian Heymann,3,0,0.0,3,37.5,4,0,1,0,0,0,0.0,Away,Rhein-Neckar Löwen,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+15,* David Móré,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,Rhein-Neckar Löwen,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+22,* Gustav Davidsson,2,0,0.0,2,100.0,0,0,0,0,0,0,0.0,Away,Rhein-Neckar Löwen,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+24,* Patrick Groetzki,2,0,0.0,2,50.0,0,0,1,0,0,0,0.0,Away,Rhein-Neckar Löwen,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+25,* Olle Forsell Schefvert,2,0,0.0,2,50.0,1,0,1,1,0,0,0.0,Away,Rhein-Neckar Löwen,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+29,* David Späth,0,0,0.0,0,0.0,0,0,0,0,0,16,39.02,Away,Rhein-Neckar Löwen,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+34,* Valentin Willner,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,Rhein-Neckar Löwen,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+42,* Jon Lindenchrone Andersen,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Away,Rhein-Neckar Löwen,"26.09.2024, 19:00
+Zuschauerzahl: 4117"
+4,* Domagoj Duvnjak,4,0,0.0,4,57.14,1,0,0,0,0,0,0.0,Home,THW Kiel,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+7,* Magnus Landin Jacobsen,1,0,0.0,1,100.0,0,0,0,1,0,0,0.0,Home,THW Kiel,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+11,* Petter Øverby,0,0,0.0,0,0.0,0,0,0,1,0,0,0.0,Home,THW Kiel,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+16,* Tomas Mrkva,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,THW Kiel,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+17,* Patrick Wiencek,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,THW Kiel,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+19,* Henri Pabst,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,THW Kiel,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+21,* Eric Johansson,5,0,0.0,5,55.56,5,0,0,0,0,0,0.0,Home,THW Kiel,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+23,* Rune Dahmke,2,0,0.0,2,66.67,0,0,0,0,0,0,0.0,Home,THW Kiel,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+24,* Lukas Zerbe,1,0,0.0,1,100.0,1,0,0,0,0,0,0.0,Home,THW Kiel,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+25,* Linus Kutz,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,THW Kiel,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+33,* Andreas Wolff,0,0,0.0,0,0.0,0,0,0,0,0,10,33.33,Home,THW Kiel,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+34,* Samir Bellahcene,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,THW Kiel,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+45,* Emil Wernsdorf  Madsen,6,2,100.0,4,46.15,1,0,1,0,0,0,0.0,Home,THW Kiel,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+49,* Karl Erik Edvin Wallinius,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,THW Kiel,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+61,* Hendrik Pekeler,2,0,0.0,2,66.67,0,0,0,1,0,0,0.0,Home,THW Kiel,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+91,* Bence Imre,0,0,0.0,0,0.0,0,0,1,0,0,0,0.0,Home,THW Kiel,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+1,* Adam Morawski,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,MT Melsungen,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+4,* Nikolaj Enderleit,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,MT Melsungen,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+6,* Erik Balenciaga,2,0,0.0,2,66.67,5,0,0,0,0,0,0.0,Away,MT Melsungen,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+7,* David Mandic,2,0,0.0,2,100.0,0,0,0,0,0,0,0.0,Away,MT Melsungen,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+8,* Adrian Sipos,1,0,0.0,1,33.33,0,1,0,0,0,0,0.0,Away,MT Melsungen,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+10,* Dainis Kristopans,7,0,0.0,7,100.0,3,1,0,0,0,0,0.0,Away,MT Melsungen,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+11,* Dimitri Ignatow,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,MT Melsungen,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+13,* Rogerio  Moraes Ferreira,1,0,0.0,1,50.0,0,0,0,0,0,0,0.0,Away,MT Melsungen,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+16,* Nebojsa Simic,0,0,0.0,0,0.0,0,0,0,0,0,15,42.86,Away,MT Melsungen,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+19,* Elvar Örn Jonsson,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,MT Melsungen,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+21,* Arnar Freyr Arnarsson,1,0,0.0,1,100.0,0,0,1,2,0,0,0.0,Away,MT Melsungen,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+24,* Alexandre Cavalcanti,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,MT Melsungen,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+33,* Aaron  Mensing,6,0,0.0,6,85.71,0,0,0,0,0,0,0.0,Away,MT Melsungen,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+71,* Mohamed Amine Darmoul,1,0,0.0,1,100.0,1,0,0,0,0,0,0.0,Away,MT Melsungen,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+73,* Timo Kastening,3,0,0.0,3,60.0,0,0,0,0,0,0,0.0,Away,MT Melsungen,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+83,* Ian Barrufet,1,1,50.0,0,50.0,0,0,1,0,0,0,0.0,Away,MT Melsungen,"26.09.2024, 19:00
+Zuschauerzahl: 9721"
+2,* Oskar Neudeck,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Home,FRISCH AUF! Göppingen,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+5,* Rutger ten Velde,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,FRISCH AUF! Göppingen,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+7,* Victor Klöve,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Home,FRISCH AUF! Göppingen,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+9,* Andreas Flodman,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,FRISCH AUF! Göppingen,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+12,* Julian Buchele,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,FRISCH AUF! Göppingen,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+13,* Josip Sarac,9,0,0.0,9,69.23,1,0,2,1,0,0,0.0,Home,FRISCH AUF! Göppingen,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+16,* Tibor Ivanisevic,0,0,0.0,0,0.0,0,0,0,0,0,8,23.53,Home,FRISCH AUF! Göppingen,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+20,* Ludvig Hallbäck,5,0,0.0,5,71.43,2,0,0,0,0,0,0.0,Home,FRISCH AUF! Göppingen,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+22,* Erik Persson,3,0,0.0,3,75.0,3,0,0,0,0,0,0.0,Home,FRISCH AUF! Göppingen,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+24,* Marcel Schiller,1,1,33.33,0,20.0,0,0,0,0,0,0,0.0,Home,FRISCH AUF! Göppingen,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+25,* Ludvig Jurmala Aström,1,0,0.0,1,100.0,0,0,0,2,0,0,0.0,Home,FRISCH AUF! Göppingen,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+27,* Oskar Sunnefeldt,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,FRISCH AUF! Göppingen,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+28,* Franko Lastro,3,0,0.0,3,100.0,0,0,1,0,0,0,0.0,Home,FRISCH AUF! Göppingen,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+33,* Ymir Örn Gislason,1,0,0.0,1,100.0,0,0,1,1,0,0,0.0,Home,FRISCH AUF! Göppingen,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+40,* Elias Newel,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,FRISCH AUF! Göppingen,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+77,* David Schmidt,6,0,0.0,6,75.0,1,0,0,0,0,0,0.0,Home,FRISCH AUF! Göppingen,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+4,* Adam Nyfjäll,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,TSV Hannover-Burgdorf,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+9,* Vilhelm Poulsen,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,TSV Hannover-Burgdorf,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+10,* Renars Uscins,10,2,100.0,8,66.67,1,0,0,1,0,0,0.0,Away,TSV Hannover-Burgdorf,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+16,* Simon Gade,0,0,0.0,0,0.0,0,0,0,0,0,1,9.09,Away,TSV Hannover-Burgdorf,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+19,* Marius Steinhauser,4,2,66.67,2,66.67,0,0,0,0,0,0,0.0,Away,TSV Hannover-Burgdorf,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+22,* Marian Michalczik,2,0,0.0,2,100.0,7,0,0,1,0,0,0.0,Away,TSV Hannover-Burgdorf,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+25,* Tilen Strmljan,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,TSV Hannover-Burgdorf,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+26,* Jonathan Edvardsson,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,TSV Hannover-Burgdorf,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+28,* Maximilian  Gerbl,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,TSV Hannover-Burgdorf,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+35,* Joel Birlehm,1,0,0.0,1,100.0,0,0,0,0,0,8,27.59,Away,TSV Hannover-Burgdorf,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+39,* Lukas Stutzke,1,0,0.0,1,25.0,3,0,0,1,0,0,0.0,Away,TSV Hannover-Burgdorf,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+42,* Martin Hanne,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Away,TSV Hannover-Burgdorf,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+44,* Thomas Alfred Solstad,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,TSV Hannover-Burgdorf,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+54,* Justus Fischer,9,1,100.0,8,90.0,1,1,1,0,0,0,0.0,Away,TSV Hannover-Burgdorf,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+56,* Hannes Feise,0,0,0.0,0,0.0,1,0,0,0,0,0,0.0,Away,TSV Hannover-Burgdorf,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+74,* Vincent Büchner,5,0,0.0,5,83.33,0,0,1,0,0,0,0.0,Away,TSV Hannover-Burgdorf,"27.09.2024, 19:00
+Zuschauerzahl: 4200"
+1,* Matija Spikic,0,0,0.0,0,0.0,0,0,0,0,0,14,36.84,Home,ThSV Eisenach,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+5,* Timothy Reichmuth,1,0,0.0,1,100.0,1,0,0,0,0,0,0.0,Home,ThSV Eisenach,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+6,* Aleksandar Capric,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,ThSV Eisenach,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+10,* Fynn Hangstein,6,3,60.0,3,46.15,1,0,0,0,0,0,0.0,Home,ThSV Eisenach,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+11,* Gian Attenhofer,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,ThSV Eisenach,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+12,* Silvio Heinevetter,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,ThSV Eisenach,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+14,* Peter Walz,1,0,0.0,1,50.0,0,0,1,1,0,0,0.0,Home,ThSV Eisenach,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+15,* Simone Mengon,7,0,0.0,7,70.0,1,0,0,0,0,0,0.0,Home,ThSV Eisenach,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+17,* Marko Grgic,5,0,0.0,5,55.56,0,0,0,1,1,0,0.0,Home,ThSV Eisenach,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+21,* Moritz Ende,1,0,0.0,1,50.0,0,0,0,0,0,0,0.0,Home,ThSV Eisenach,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+27,* Philipp Meyer,0,0,0.0,0,0.0,1,0,0,1,0,0,0.0,Home,ThSV Eisenach,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+34,* Rok Maric,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,ThSV Eisenach,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+39,* Malte Donker,1,0,0.0,1,100.0,0,0,0,0,0,0,0.0,Home,ThSV Eisenach,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+47,* Dustin Kraus,1,0,0.0,1,20.0,0,0,0,0,0,0,0.0,Home,ThSV Eisenach,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+52,* Justin Kurch,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Home,ThSV Eisenach,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+95,* Alexander Saul,2,0,0.0,2,40.0,2,0,0,0,0,0,0.0,Home,ThSV Eisenach,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+1,* Benjamin Burić,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,SG Flensburg-Handewitt,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+2,* Simon  Pytlick,9,0,0.0,9,75.0,1,0,0,0,0,0,0.0,Away,SG Flensburg-Handewitt,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+4,* Johannes Golla,1,0,0.0,1,50.0,0,1,0,1,0,0,0.0,Away,SG Flensburg-Handewitt,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+5,* Niclas Kirkeløkke,2,0,0.0,2,40.0,0,0,0,0,0,0,0.0,Away,SG Flensburg-Handewitt,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+20,* Kevin Møller,0,0,0.0,0,0.0,0,0,0,0,0,11,32.35,Away,SG Flensburg-Handewitt,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+22,* Mads  Mensah Larsen,1,0,0.0,1,100.0,1,0,0,0,0,0,0.0,Away,SG Flensburg-Handewitt,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+24,* Jim Gottfridsson,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,SG Flensburg-Handewitt,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+25,* Lukas Jørgensen,2,0,0.0,2,66.67,0,1,1,1,0,0,0.0,Away,SG Flensburg-Handewitt,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+26,* Johan Hansen,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,SG Flensburg-Handewitt,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+27,* Aksel Horgen,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,SG Flensburg-Handewitt,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+29,* August Pedersen,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,SG Flensburg-Handewitt,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+31,* Emil Jakobsen,6,2,66.67,4,50.0,1,0,1,0,0,0,0.0,Away,SG Flensburg-Handewitt,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+33,* Kay Smits,4,0,0.0,4,66.67,2,0,0,0,0,0,0.0,Away,SG Flensburg-Handewitt,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+43,* Blaž Blagotinšek,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,Away,SG Flensburg-Handewitt,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
+64,* Lasse Møller,5,0,0.0,5,100.0,0,0,0,0,0,0,0.0,Away,SG Flensburg-Handewitt,"27.09.2024, 20:00
+Zuschauerzahl: 2800"
